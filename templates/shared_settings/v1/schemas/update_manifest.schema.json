@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AllApp Update Manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "build_number", "url", "force_update"],
+  "properties": {
+    "version": { "type": "string", "minLength": 1 },
+    "build_number": { "type": "integer", "minimum": 1 },
+    "url": { "type": "string", "format": "uri" },
+    "force_update": { "type": "boolean" },
+    "notes": { "type": "string" }
+  }
+}

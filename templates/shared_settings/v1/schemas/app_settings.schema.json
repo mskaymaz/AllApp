@@ -1,0 +1,54 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AllApp Shared Settings App Config",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "app_name",
+    "app_id",
+    "package_name",
+    "admin_name",
+    "contact",
+    "update",
+    "other_apps",
+    "support",
+    "about"
+  ],
+  "properties": {
+    "app_name": { "type": "string", "minLength": 1 },
+    "app_id": { "type": "string", "minLength": 1 },
+    "package_name": { "type": "string", "minLength": 1 },
+    "admin_name": { "type": "string", "minLength": 1 },
+    "contact": { "$ref": "support_contact.schema.json#/definitions/contact" },
+    "update": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["remote_manifest_url", "fallback_release_url", "channel"],
+      "properties": {
+        "remote_manifest_url": { "type": "string", "format": "uri" },
+        "fallback_release_url": { "type": "string", "format": "uri" },
+        "channel": { "type": "string" }
+      }
+    },
+    "other_apps": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["remote_catalog_url"],
+      "properties": {
+        "remote_catalog_url": { "type": "string", "format": "uri" }
+      }
+    },
+    "support": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "body", "action_url", "action_label"],
+      "properties": {
+        "title": { "type": "string" },
+        "body": { "type": "string" },
+        "action_url": { "type": "string", "format": "uri" },
+        "action_label": { "type": "string" }
+      }
+    },
+    "about": { "$ref": "about.schema.json" }
+  }
+}

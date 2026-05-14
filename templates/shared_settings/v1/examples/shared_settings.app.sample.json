@@ -1,0 +1,35 @@
+﻿{
+  "app_name": "Haydi Namaza",
+  "app_id": "haydi_namaza",
+  "package_name": "com.msklabs.haydi_namaza",
+  "admin_name": "HaydiNamazaAdmin",
+  "contact": {
+    "email": "msklabs.org@gmail.com",
+    "support_form_url": "https://forms.example.com/haydi-namaza-support",
+    "support_form_topic": "Geri Bildirim",
+    "support_form_message": "Mesajinizi ayrintili yazabilirsiniz.",
+    "response_policy_text": "Geri donusler sirayla degerlendirilir."
+  },
+  "update": {
+    "remote_manifest_url": "https://raw.githubusercontent.com/mskaymaz/M_HaydiNamaza/main/update.json",
+    "fallback_release_url": "https://github.com/mskaymaz/M_HaydiNamaza/releases",
+    "channel": "public"
+  },
+  "other_apps": {
+    "remote_catalog_url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/app_catalog.json"
+  },
+  "support": {
+    "title": "Destek Olabilirsiniz",
+    "body": "Uygulamayi faydali bulduysaniz paylasarak destek olabilirsiniz.",
+    "action_url": "https://github.com/mskaymaz/M_HaydiNamaza",
+    "action_label": "Paylas"
+  },
+  "about": {
+    "title": "Biz Kimiz",
+    "summary": "MSK Labs mobil urunleri sade ve guvenilir deneyim hedefler.",
+    "details": "Geri bildirimlere gore uygulamalari adim adim iyilestiriyoruz.",
+    "image_asset": "img/M_BizKimiz.jpg",
+    "link_url": "https://msklabsdevelopment.blogspot.com",
+    "link_label": "Blog"
+  }
+}

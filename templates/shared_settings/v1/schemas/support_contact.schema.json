@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AllApp Support Contact Metadata",
+  "type": "object",
+  "definitions": {
+    "contact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["email", "support_form_url", "support_form_topic", "support_form_message", "response_policy_text"],
+      "properties": {
+        "email": { "type": "string", "format": "email" },
+        "support_form_url": { "type": "string", "format": "uri" },
+        "support_form_topic": { "type": "string" },
+        "support_form_message": { "type": "string" },
+        "response_policy_text": { "type": "string" }
+      }
+    }
+  },
+  "$ref": "#/definitions/contact"
+}

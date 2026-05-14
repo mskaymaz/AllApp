@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AllApp About Metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "summary", "details", "image_asset", "link_url", "link_label"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "summary": { "type": "string", "minLength": 1 },
+    "details": { "type": "string", "minLength": 1 },
+    "image_asset": { "type": "string", "minLength": 1 },
+    "link_url": { "type": "string", "format": "uri" },
+    "link_label": { "type": "string", "minLength": 1 }
+  }
+}

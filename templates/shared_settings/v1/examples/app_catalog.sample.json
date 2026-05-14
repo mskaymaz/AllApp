@@ -1,0 +1,22 @@
+﻿{
+  "apps": [
+    {
+      "app_id": "rekat_sayar",
+      "name": "M Rekat Sayar",
+      "description": "Namaz sayim ve kalibrasyon uygulamasi",
+      "url": "https://github.com/mskaymaz/M_RekatSay",
+      "active": true,
+      "order": 10,
+      "target_apps": ["*"]
+    },
+    {
+      "app_id": "haydi_namaza",
+      "name": "Haydi Namaza",
+      "description": "Namaz vakti, kible ve gunluk icerik uygulamasi",
+      "url": "https://github.com/mskaymaz/M_HaydiNamaza",
+      "active": true,
+      "order": 20,
+      "target_apps": ["*"]
+    }
+  ]
+}
