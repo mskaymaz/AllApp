@@ -65,3 +65,8 @@ sessions/
 ## 4) Not
 
 Bu sablonu tum uygulamalarda ayni sekilde kullanabilir, sadece `Repo:` adini ve `besmele/PROJECTS/<uygulama_adi>/` iceriklerini uygulamaya gore degistirebilirsin.
+
+## 5) Daily Content Kisa Metin Siniri
+
+- Eger uygulamada gunluk ayet/hadis kisa ozet metinleri kullaniliyorsa, Turkce metin siniri `300` karakterdir.
+- `400` karakter eski sinirdir ve yeni uretimlerde kullanilmaz.
