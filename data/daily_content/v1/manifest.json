@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "content_version": "local-approved-20260609_074542",
+  "generated_at_utc": "2026-06-09T07:45:42+00:00",
+  "publish_files": {
+    "ayahs": {
+      "path": "publish/ayahs.v1.approved.json",
+      "sha256": "388d132a888ca1633f3c710ad190973d86349caa49e4cbbb861b529df051db41",
+      "bytes": 63211,
+      "record_count": 37
+    },
+    "hadiths": {
+      "path": "publish/hadiths.v1.approved.json",
+      "sha256": "6887779239580a5980715a2590ca312fded8cbc9026d39c5bde4b1bcfb9d14cf",
+      "bytes": 18940,
+      "record_count": 8
+    }
+  },
+  "schedule": {
+    "start_date": "2026-05-15"
+  }
+}
