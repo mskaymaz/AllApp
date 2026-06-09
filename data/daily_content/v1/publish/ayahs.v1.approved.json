@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "content_version": "local-approved-20260609_074542",
+  "content_version": "local-approved-20260609_080323",
   "type": "ayah",
   "records": [
     {
@@ -137,11 +137,11 @@
       "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَن تَجْعَلُوا۟ لِلَّهِ عَلَيْكُمْ سُلْطَـٰنًا مُّبِينًا\nإِنَّ ٱلْمُنَـٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا",
       "text_tr": "Ey iman edenler, mü'minleri bırakıp kafirleri veliler (dostlar) edinmeyin. Kendi aleyhinizde Allah'a apaçık olan kesin bir delil vermek ister misiniz?\nGerçekten münafıklar, ateşin en alçak tabakasındadırlar. Onlara bir yardımcı bulamazsın.",
       "text_en": "O you who have believed, do not take the disbelievers as allies instead of the believers. Do you wish to give Allah against yourselves a clear case?\nIndeed, the hypocrites will be in the lowest depths of the Fire - and never will you find for them a helper -",
-      "source_ar": "local_approved:004/144-145:ar",
-      "source_tr": "local_approved:004/144-145:tr",
-      "source_en": "local_approved:004/144-145:en",
+      "source_ar": "local_approved:004/144:ar",
+      "source_tr": "local_approved:004/144:tr",
+      "source_en": "local_approved:004/144:en",
       "meal_source": "local approved payload",
-      "source_note": "local approved payload; approved_at=2026-06-05T11:55:25+00:00",
+      "source_note": "local approved payload; approved_at=2026-06-05T11:54:58+00:00",
       "topics": [
         "ayah_approved_pool"
       ],
@@ -224,7 +224,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T07:45:42+00:00",
+        "approved_at": "2026-06-09T08:03:23+00:00",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -249,7 +249,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T07:45:42+00:00",
+        "approved_at": "2026-06-09T08:03:23+00:00",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -274,7 +274,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T07:45:42+00:00",
+        "approved_at": "2026-06-09T08:03:23+00:00",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -299,7 +299,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T07:45:42+00:00",
+        "approved_at": "2026-06-09T08:03:23+00:00",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -324,7 +324,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T07:45:42+00:00",
+        "approved_at": "2026-06-09T08:03:23+00:00",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -349,7 +349,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T07:45:42+00:00",
+        "approved_at": "2026-06-09T08:03:23+00:00",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -374,7 +374,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T07:45:42+00:00",
+        "approved_at": "2026-06-09T08:03:23+00:00",
         "review_note": "Synced from local approved payload."
       }
     },

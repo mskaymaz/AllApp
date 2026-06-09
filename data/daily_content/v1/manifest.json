@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "content_version": "local-approved-20260609_074542",
-  "generated_at_utc": "2026-06-09T07:45:42+00:00",
+  "content_version": "local-approved-20260609_080323",
+  "generated_at_utc": "2026-06-09T08:03:23+00:00",
   "publish_files": {
     "ayahs": {
       "path": "publish/ayahs.v1.approved.json",
-      "sha256": "388d132a888ca1633f3c710ad190973d86349caa49e4cbbb861b529df051db41",
-      "bytes": 63211,
+      "sha256": "26a0409e0c5b704a2baf8313fb51c073f78e4ed325ca11ecb856e6a6a2980779",
+      "bytes": 63199,
       "record_count": 37
     },
     "hadiths": {
       "path": "publish/hadiths.v1.approved.json",
-      "sha256": "6887779239580a5980715a2590ca312fded8cbc9026d39c5bde4b1bcfb9d14cf",
+      "sha256": "cf0bb4d7b127a3551c4a41e9211a0d9c7f9eb80e49a6b4cf8a3db1ce90706d86",
       "bytes": 18940,
       "record_count": 8
     }
