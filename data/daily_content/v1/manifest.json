@@ -1,22 +1,28 @@
-{
-  "schema_version": "1.0.0",
-  "content_version": "local-approved-20260609_080323",
-  "generated_at_utc": "2026-06-09T08:03:23+00:00",
-  "publish_files": {
-    "ayahs": {
-      "path": "publish/ayahs.v1.approved.json",
-      "sha256": "26a0409e0c5b704a2baf8313fb51c073f78e4ed325ca11ecb856e6a6a2980779",
-      "bytes": 63199,
-      "record_count": 37
-    },
-    "hadiths": {
-      "path": "publish/hadiths.v1.approved.json",
-      "sha256": "cf0bb4d7b127a3551c4a41e9211a0d9c7f9eb80e49a6b4cf8a3db1ce90706d86",
-      "bytes": 18940,
-      "record_count": 8
-    }
-  },
-  "schedule": {
-    "start_date": "2026-05-15"
-  }
+﻿{
+    "schema_version":  "1.0.0",
+    "content_version":  "local-approved-esma-sifat-20260610_134049",
+    "generated_at_utc":  "2026-06-10T13:40:49+00:00",
+    "publish_files":  {
+                          "ayahs":  {
+                                        "path":  "publish/ayahs.v1.approved.json",
+                                        "sha256":  "26a0409e0c5b704a2baf8313fb51c073f78e4ed325ca11ecb856e6a6a2980779",
+                                        "bytes":  63199,
+                                        "record_count":  37
+                                    },
+                          "hadiths":  {
+                                          "path":  "publish/hadiths.v1.approved.json",
+                                          "sha256":  "cf0bb4d7b127a3551c4a41e9211a0d9c7f9eb80e49a6b4cf8a3db1ce90706d86",
+                                          "bytes":  18940,
+                                          "record_count":  8
+                                      },
+                          "esmas":  {
+                                        "path":  "publish/esmaul_husna.v1.approved.json",
+                                        "sha256":  "f270d458f0d1f4fb8e441553aa7f99537014eb943a913e918616eef453436cef",
+                                        "bytes":  1064960,
+                                        "record_count":  381
+                                    }
+                      },
+    "schedule":  {
+                     "start_date":  "2026-05-15"
+                 }
 }
