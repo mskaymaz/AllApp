@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "content_version": "local-approved-20260609_080323",
+  "content_version": "local-approved-20260611_111825",
   "type": "ayah",
   "records": [
     {
@@ -10,8 +10,8 @@
       "surah_number": 11,
       "ayah_number": 112,
       "text_ar": "فَٱسْتَقِمْ كَمَآ أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا۟ ۚ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ\nوَلَا تَرْكَنُوٓا۟ إِلَى ٱلَّذِينَ ظَلَمُوا۟ فَتَمَسَّكُمُ ٱلنَّارُ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِنْ أَوْلِيَآءَ ثُمَّ لَا تُنصَرُونَ",
-      "text_tr": "Sen, beraberindeki tevbe edenlerle birlikte emrolunduğun gibi dosdoğru ol. Aşırı gitmeyin, doğrusu Allah yaptıklarınızı görür.\n\nHaksızlık yapanlara yönelmeyin, yoksa ateş size de dokunur. Sizin Allah'tan başka dostunuz yoktur; sonra, yardım da göremezsiniz.",
-      "text_en": "So remain on a right course as you have been commanded, [you] and those who have turned back with you [to Allah], and do not transgress. Indeed, He is Seeing of what you do.\n\nAnd do not incline toward those who do wrong, lest you be touched by the Fire, and you would not have other than Allah any protectors; then you would not be helped.",
+      "text_tr": "Sen, beraberindeki tevbe edenlerle birlikte emrolunduğun gibi dosdoğru ol. Aşırı gitmeyin, doğrusu Allah yaptıklarınızı görür.\nHaksızlık yapanlara yönelmeyin, yoksa ateş size de dokunur. Sizin Allah'tan başka dostunuz yoktur; sonra, yardım da göremezsiniz.",
+      "text_en": "So remain on a right course as you have been commanded, [you] and those who have turned back with you [to Allah], and do not transgress. Indeed, He is Seeing of what you do.\nAnd do not incline toward those who do wrong, lest you be touched by the Fire, and you would not have other than Allah any protectors; then you would not be helped.",
       "source_ar": "diyanet_api_v1:11:112",
       "source_tr": "tr.diyanet:11:112",
       "source_en": "en.asad:11:112",
@@ -24,7 +24,7 @@
       "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-04T13:14:36+00:00",
+        "approved_at": "2026-06-10T14:25:14",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -49,7 +49,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-04T13:21:49+00:00",
+        "approved_at": "2026-06-10T14:25:48",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -74,7 +74,7 @@
       "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-04T13:22:34+00:00",
+        "approved_at": "2026-06-10T14:26:16",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -99,7 +99,7 @@
       "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-04T13:23:06+00:00",
+        "approved_at": "2026-06-10T14:26:22",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -124,7 +124,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T11:54:36+00:00",
+        "approved_at": "2026-06-10T14:26:27",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -149,7 +149,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T11:55:25+00:00",
+        "approved_at": "2026-06-10T16:34:06",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -159,9 +159,9 @@
       "surah_name": "Maide",
       "surah_number": 5,
       "ayah_number": 54,
-      "text_ar": "﴿54﴾ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَـٰفِرِينَ يُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ\n\n﴿55﴾ إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
-      "text_tr": "[54] Ey iman edenler, içinizden kim dininden geri döner (irtidat eder)se, Allah (yerine) Kendisi'nin onları sevdiği, onların da Kendisi'ni sevdiği mü'minlere karşı alçak gönüllü, kafirlere karşı ise 'güçlü ve onurlu,' Allah yolunda çaba harcayan ve kınayıcının kınamasından korkmayan bir topluluk getirir. Bu, Allah'ın bir fazlıdır, onu dilediğine verir. Allah (rahmetiyle) geniş olandır, bilendir.\n\n[55] Sizin dostunuz (veliniz), ancak Allah, O'nun elçisi, rüku ediciler olarak namaz kılan ve zekatı veren mü'minlerdir.",
-      "text_en": "[54] O you who have believed, whoever of you should revert from his religion - Allah will bring forth [in place of them] a people He will love and who will love Him [who are] humble toward the believers, powerful against the disbelievers; they strive in the cause of Allah and do not fear the blame of a critic. That is the favor of Allah; He bestows it upon whom He wills. And Allah is all-Encompassing and Knowing.\n\n[55] Your ally is none but Allah and [therefore] His Messenger and those who have believed - those who establish prayer and give zakah, and they bow [in worship].",
+      "text_ar": "﴿54﴾ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَـٰفِرِينَ يُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ\n﴿55﴾ إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+      "text_tr": "[54] Ey iman edenler, içinizden kim dininden geri döner (irtidat eder)se, Allah (yerine) Kendisi'nin onları sevdiği, onların da Kendisi'ni sevdiği mü'minlere karşı alçak gönüllü, kafirlere karşı ise 'güçlü ve onurlu,' Allah yolunda çaba harcayan ve kınayıcının kınamasından korkmayan bir topluluk getirir. Bu, Allah'ın bir fazlıdır, onu dilediğine verir. Allah (rahmetiyle) geniş olandır, bilendir.\n[55] Sizin dostunuz (veliniz), ancak Allah, O'nun elçisi, rüku ediciler olarak namaz kılan ve zekatı veren mü'minlerdir.",
+      "text_en": "[54] O you who have believed, whoever of you should revert from his religion - Allah will bring forth [in place of them] a people He will love and who will love Him [who are] humble toward the believers, powerful against the disbelievers; they strive in the cause of Allah and do not fear the blame of a critic. That is the favor of Allah; He bestows it upon whom He wills. And Allah is all-Encompassing and Knowing.\n[55] Your ally is none but Allah and [therefore] His Messenger and those who have believed - those who establish prayer and give zakah, and they bow [in worship].",
       "source_ar": "diyanet_api_v1:5:54",
       "source_tr": "tr.diyanet:5:54",
       "source_en": "en.asad:5:54",
@@ -174,7 +174,7 @@
       "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-04T13:34:38+00:00",
+        "approved_at": "2026-06-10T16:34:25",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -199,32 +199,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:00:06+00:00",
-        "review_note": "Synced from local approved payload."
-      }
-    },
-    {
-      "id": "001/006",
-      "type": "ayah",
-      "surah_name": "Fatiha",
-      "surah_number": 1,
-      "ayah_number": 6,
-      "text_ar": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
-      "text_tr": "Bizi doğru yola ilet;",
-      "text_en": "Guide us to the straight path -",
-      "source_ar": "local_approved:001/006:ar",
-      "source_tr": "local_approved:001/006:tr",
-      "source_en": "local_approved:001/006:en",
-      "meal_source": "local approved payload",
-      "source_note": "local approved payload; synced_at=2026-06-09T07:45:42+00:00",
-      "topics": [
-        "ayah_approved_pool"
-      ],
-      "status": "approved",
-      "priority": 1,
-      "approval": {
-        "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T08:03:23+00:00",
+        "approved_at": "2026-06-10T14:27:24",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -249,7 +224,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T08:03:23+00:00",
+        "approved_at": "2026-06-10T14:27:30",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -271,10 +246,10 @@
         "ayah_approved_pool"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T08:03:23+00:00",
+        "approved_at": "2026-06-10T14:27:41",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -296,10 +271,10 @@
         "ayah_approved_pool"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T08:03:23+00:00",
+        "approved_at": "2026-06-10T14:27:54",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -321,35 +296,10 @@
         "ayah_approved_pool"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T08:03:23+00:00",
-        "review_note": "Synced from local approved payload."
-      }
-    },
-    {
-      "id": "002/009",
-      "type": "ayah",
-      "surah_name": "Bakara",
-      "surah_number": 2,
-      "ayah_number": 9,
-      "text_ar": "يُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
-      "text_tr": "(Sözde) Allah'ı ve iman edenleri aldatırlar. Oysa onlar, yalnızca kendilerini aldatıyorlar ve şuurunda değiller.",
-      "text_en": "They [think to] deceive Allah and those who believe, but they deceive not except themselves and perceive [it] not.",
-      "source_ar": "local_approved:002/009:ar",
-      "source_tr": "local_approved:002/009:tr",
-      "source_en": "local_approved:002/009:en",
-      "meal_source": "local approved payload",
-      "source_note": "local approved payload; synced_at=2026-06-09T07:45:42+00:00",
-      "topics": [
-        "ayah_approved_pool"
-      ],
-      "status": "approved",
-      "priority": 1,
-      "approval": {
-        "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T08:03:23+00:00",
+        "approved_at": "2026-06-10T14:28:00",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -371,35 +321,10 @@
         "ayah_approved_pool"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-09T08:03:23+00:00",
-        "review_note": "Synced from local approved payload."
-      }
-    },
-    {
-      "id": "004/144",
-      "type": "ayah",
-      "surah_name": "Nisa",
-      "surah_number": 4,
-      "ayah_number": 144,
-      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَن تَجْعَلُوا۟ لِلَّهِ عَلَيْكُمْ سُلْطَـٰنًا مُّبِينًا",
-      "text_tr": "Ey iman edenler, mü'minleri bırakıp kafirleri veliler (dostlar) edinmeyin. Kendi aleyhinizde Allah'a apaçık olan kesin bir delil vermek ister misiniz?",
-      "text_en": "O you who have believed, do not take the disbelievers as allies instead of the believers. Do you wish to give Allah against yourselves a clear case?",
-      "source_ar": "local_approved:004/144:ar",
-      "source_tr": "local_approved:004/144:tr",
-      "source_en": "local_approved:004/144:en",
-      "meal_source": "local approved payload",
-      "source_note": "local approved payload; approved_at=2026-06-05T11:54:58+00:00",
-      "topics": [
-        "ayah_approved_pool"
-      ],
-      "status": "approved",
-      "priority": 1,
-      "approval": {
-        "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T11:54:58+00:00",
+        "approved_at": "2026-06-10T14:28:10",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -424,7 +349,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T11:55:48+00:00",
+        "approved_at": "2026-06-10T14:29:27",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -449,7 +374,7 @@
       "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T11:56:51+00:00",
+        "approved_at": "2026-06-10T14:29:30",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -474,7 +399,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:02:43+00:00",
+        "approved_at": "2026-06-10T14:29:36",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -499,7 +424,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:03:49+00:00",
+        "approved_at": "2026-06-10T14:29:45",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -521,10 +446,10 @@
         "ehl_i_kitap_tarihi_uyarilar"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:04:52+00:00",
+        "approved_at": "2026-06-10T14:29:56",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -549,7 +474,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:06:50+00:00",
+        "approved_at": "2026-06-10T14:30:06",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -571,10 +496,10 @@
         "ayah_approved_pool"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:07:55+00:00",
+        "approved_at": "2026-06-10T14:30:12",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -599,32 +524,7 @@
       "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:12:16+00:00",
-        "review_note": "Synced from local approved payload."
-      }
-    },
-    {
-      "id": "002/138",
-      "type": "ayah",
-      "surah_name": "Bakara",
-      "surah_number": 2,
-      "ayah_number": 138,
-      "text_ar": "صِبْغَةَ ٱللَّهِ ۖ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ صِبْغَةً ۖ وَنَحْنُ لَهُۥ عَـٰبِدُونَ",
-      "text_tr": "Allah'ın boyası... Allah(ın boyasın)dan daha güzel boyası olan kimdir? Biz (yalnızca) O'na kulluk edenleriz.",
-      "text_en": "[And say, \"Ours is] the religion of Allah. And who is better than Allah in [ordaining] religion? And we are worshippers of Him.\"",
-      "source_ar": "diyanet_api_v1:2:138",
-      "source_tr": "tr.diyanet:2:138",
-      "source_en": "en.asad:2:138",
-      "meal_source": "Diyanet (tr) + Asad (en) source based",
-      "source_note": "requires human verification",
-      "topics": [
-        "islama_baglilik"
-      ],
-      "status": "approved",
-      "priority": 1,
-      "approval": {
-        "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:23:21+00:00",
+        "approved_at": "2026-06-10T14:30:25",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -646,10 +546,10 @@
         "ummet_bilinci"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:25:15+00:00",
+        "approved_at": "2026-06-10T14:30:37",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -674,7 +574,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:35:30+00:00",
+        "approved_at": "2026-06-10T14:30:46",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -699,7 +599,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:36:09+00:00",
+        "approved_at": "2026-06-10T14:30:51",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -724,7 +624,7 @@
       "priority": 1,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:43:59+00:00",
+        "approved_at": "2026-06-10T14:30:59",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -746,10 +646,10 @@
         "ayah_approved_pool"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:46:01+00:00",
+        "approved_at": "2026-06-10T14:31:05",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -774,7 +674,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:46:52+00:00",
+        "approved_at": "2026-06-10T14:32:43",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -796,10 +696,10 @@
         "ummet_bilinci"
       ],
       "status": "approved",
-      "priority": 1,
+      "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:47:24+00:00",
+        "approved_at": "2026-06-10T14:32:51",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -821,10 +721,10 @@
         "ummet_bilinci"
       ],
       "status": "approved",
-      "priority": 3,
+      "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:48:45+00:00",
+        "approved_at": "2026-06-10T14:32:54",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -849,7 +749,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:50:05+00:00",
+        "approved_at": "2026-06-10T14:36:07",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -874,7 +774,7 @@
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:50:59+00:00",
+        "approved_at": "2026-06-10T14:36:19",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -896,10 +796,10 @@
         "zulme_ve_zalime_karsi_davranis"
       ],
       "status": "approved",
-      "priority": 2,
+      "priority": 3,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:51:42+00:00",
+        "approved_at": "2026-06-10T14:37:20",
         "review_note": "Synced from local approved payload."
       }
     },
@@ -921,10 +821,2110 @@
         "zulme_ve_zalime_karsi_davranis"
       ],
       "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:34:41",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/143",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 143,
+      "text_ar": "وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَـٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+      "text_tr": "Böylece Biz sizi, insanlara şahid (ve örnek) olmanız için orta bir ümmet kıldık; Peygamber de üzerinizde bir şahid olsun. Senin üzerinde bulunduğun (yönü, Ka'be'yi) kıble yapmamız, elçiye uyanları, topukları üzerinde gerisin geri dönenlerden ayırt etmek içindir. Doğrusu (bu,) Allah'ın hidayete ilettiklerinin dışında kalanlar için büyük (bir yük)tür. Allah, imanınızı boşa çıkaracak değildir. Şüphesiz, Allah, insanlara şefkat edendir, esirgeyendir.",
+      "text_en": "And thus we have made you a just community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allah has guided. And never would Allah have caused you to lose your faith. Indeed Allah is, to the people, Kind and Merciful.",
+      "source_ar": "local_approved:002/143:ar",
+      "source_tr": "local_approved:002/143:tr",
+      "source_en": "local_approved:002/143:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:34:49",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
       "priority": 2,
       "approval": {
         "approved_by": "local_review_tool",
-        "approved_at": "2026-06-05T12:52:00+00:00",
+        "approved_at": "2026-06-10T16:34:49",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "003/104",
+      "type": "ayah",
+      "surah_name": "Ali Imran",
+      "surah_number": 3,
+      "ayah_number": 104,
+      "text_ar": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "text_tr": "Sizden; hayra çağıran, iyiliği (marufu) emreden ve kötülükten (münkerden) sakındıran bir topluluk bulunsun. Kurtuluşa erenler işte bunlardır.",
+      "text_en": "And let there be [arising] from you a nation inviting to [all that is] good, enjoining what is right and forbidding what is wrong, and those will be the successful.",
+      "source_ar": "local_approved:003/104:ar",
+      "source_tr": "local_approved:003/104:tr",
+      "source_en": "local_approved:003/104:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:34:51",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:34:51",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "003/139",
+      "type": "ayah",
+      "surah_name": "Ali Imran",
+      "surah_number": 3,
+      "ayah_number": 139,
+      "text_ar": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "text_tr": "Gevşemeyin, üzülmeyin; eğer (gerçekten) iman etmişseniz en üstün olan sizlersiniz.",
+      "text_en": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+      "source_ar": "local_approved:003/139:ar",
+      "source_tr": "local_approved:003/139:tr",
+      "source_en": "local_approved:003/139:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:34:58",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:34:58",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "003/146",
+      "type": "ayah",
+      "surah_name": "Ali Imran",
+      "surah_number": 3,
+      "ayah_number": 146,
+      "text_ar": "وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ",
+      "text_tr": "Nice peygamberle birlikte birçok Rabbani (bilgin)ler savaşa girdiler de, Allah yolunda kendilerine isabet eden (güçlük ve mihnet)den dolayı ne gevşeklik gösterdiler, ne boyun eğdiler. Allah, sabredenleri sever.",
+      "text_en": "And how many a prophet [fought and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allah, nor did they weaken or submit. And Allah loves the steadfast.",
+      "source_ar": "local_approved:003/146:ar",
+      "source_tr": "local_approved:003/146:tr",
+      "source_en": "local_approved:003/146:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:35:15",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:35:15",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "003/173",
+      "type": "ayah",
+      "surah_name": "Ali Imran",
+      "surah_number": 3,
+      "ayah_number": 173,
+      "text_ar": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+      "text_tr": "Onlar, kendilerine insanlar: \"Size karşı insanlar topla(n)dılar, artık onlardan korkun\" dedikleri halde imanları artanlar ve: \"Allah bize yeter, O ne güzel vekildir\" diyenlerdir.",
+      "text_en": "Those to whom hypocrites said, \"Indeed, the people have gathered against you, so fear them.\" But it [merely] increased them in faith, and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs.\"",
+      "source_ar": "local_approved:003/173:ar",
+      "source_tr": "local_approved:003/173:tr",
+      "source_en": "local_approved:003/173:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:36:05",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:36:05",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/059",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 59,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَـٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+      "text_tr": "Ey iman edenler, Allah'a itaat edin; elçiye itaat edin ve sizden olan emir sahiplerine de. Eğer bir şeyde anlaşmazlığa düşerseniz, artık onu Allah'a ve elçisine döndürün. Şayet Allah'a ve ahiret gününe iman ediyorsanız. Bu, hayırlı ve sonuç bakımından daha güzeldir.",
+      "text_en": "O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is the best [way] and best in result.",
+      "source_ar": "local_approved:004/059:ar",
+      "source_tr": "local_approved:004/059:tr",
+      "source_en": "local_approved:004/059:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:36:23",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:36:23",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/074",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 74,
+      "text_ar": "فَلْيُقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۚ وَمَن يُقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "text_tr": "Öyleyse, dünya hayatına karşılık ahireti satın alanlar, Allah yolunda savaşsınlar; kim Allah yolunda savaşırken, öldürülür ya da galip gelirse ona büyük bir ecir vereceğiz.",
+      "text_en": "So let those fight in the cause of Allah who sell the life of this world for the Hereafter. And he who fights in the cause of Allah and is killed or achieves victory - We will bestow upon him a great reward.",
+      "source_ar": "local_approved:004/074:ar",
+      "source_tr": "local_approved:004/074:tr",
+      "source_en": "local_approved:004/074:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:36:43",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:36:43",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/083",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 83,
+      "text_ar": "وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ ۖ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ ۗ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَـٰنَ إِلَّا قَلِيلًا",
+      "text_tr": "Kendilerine güven veya korku haberi geldiğinde, onu yaygınlaştırıverirler. Oysa bunu peygambere ve kendilerinden olan emir sahiplerine götürmüş olsalardı, onlardan 'sonuç-çıkarabilenler,' onu bilirlerdi. Allah'ın üzerinizdeki fazlı ve rahmeti olmasaydı, azınız hariç herhalde şeytana uymuştunuz.",
+      "text_en": "And when there comes to them information about [public] security or fear, they spread it around. But if they had referred it back to the Messenger or to those of authority among them, then the ones who [can] draw correct conclusions from it would have known about it. And if not for the favor of Allah upon you and His mercy, you would have followed Satan, except for a few.",
+      "source_ar": "local_approved:004/083:ar",
+      "source_tr": "local_approved:004/083:tr",
+      "source_en": "local_approved:004/083:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:37:45",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:37:45",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/084",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 84,
+      "text_ar": "فَقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنكِيلًا",
+      "text_tr": "Artık sen Allah yolunda savaş, kendinden başkasıyla yükümlü tutulmayacaksın. Mü'minleri hazırlayıp-teşvik et. Umulur ki Allah, küfredenlerin ağır-baskılarını geri püskürtür. Allah, 'kahredici baskısıyla' daha zorlu, acı sonuçlandırmasıyla da daha zorludur.",
+      "text_en": "So fight, [O Muhammad], in the cause of Allah; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allah will restrain the [military] might of those who disbelieve. And Allah is greater in might and stronger in [exemplary] punishment.",
+      "source_ar": "local_approved:004/084:ar",
+      "source_tr": "local_approved:004/084:tr",
+      "source_en": "local_approved:004/084:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:37:57",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:37:57",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/089",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 89,
+      "text_ar": "وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءً ۖ فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ ۖ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+      "text_tr": "Onlar, kendilerinin inkara sapmaları gibi sizin de inkara sapmanızı istediler. Böylelikle bir olacaktınız. Öyleyse Allah yolunda hicret edinceye kadar onlardan veliler (dostlar) edinmeyin. Şayet yine yüz çevirirlerse, artık onları tutun ve her nerede ele geçirirseniz öldürün. Onlardan ne bir veli (dost) edinin, ne de bir yardımcı.",
+      "text_en": "They wish you would disbelieve as they disbelieved so you would be alike. So do not take from among them allies until they emigrate for the cause of Allah. But if they turn away, then seize them and kill them wherever you find them and take not from among them any ally or helper.",
+      "source_ar": "local_approved:004/089:ar",
+      "source_tr": "local_approved:004/089:tr",
+      "source_en": "local_approved:004/089:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:38:18",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:38:18",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/097",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 97,
+      "text_ar": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةً فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا",
+      "text_tr": "Melekler kendi nefislerine zulmedenlerin hayatına son verecekleri zaman derler ki: \"Nerede idiniz?\" Onlar: \"Biz, yeryüzünde zayıf bırakılmışlar (müstaz'aflar) idik.\" derler. (Melekler de:) \"Hicret etmeniz için Allah'ın arzı geniş değil miydi?\" derler. İşte onların barınma yeri cehennemdir. Ne kötü yataktır o?",
+      "text_en": "Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, \"In what [condition] were you?\" They will say, \"We were oppressed in the land.\" The angels will say, \"Was not the earth of Allah spacious [enough] for you to emigrate therein?\" For those, their refuge is Hell - and evil it is as a destination.",
+      "source_ar": "local_approved:004/097:ar",
+      "source_tr": "local_approved:004/097:tr",
+      "source_en": "local_approved:004/097:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:38:37",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:38:37",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/100",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 100,
+      "text_ar": "وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "text_tr": "Allah yolunda hicret eden, yeryüzünde barınacak çok yer de bulur, genişlik (ve bolluk) da. Allah'a ve Resûlü’ne hicret etmek üzere evinden çıkan, sonra kendisine ölüm gelen kişinin ecri şüphesiz Allah'a düşmüştür. Allah, bağışlayıcıdır, esirgeyicidir.",
+      "text_en": "And whoever emigrates for the cause of Allah will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allah and His Messenger and then death overtakes him - his reward has already become incumbent upon Allah. And Allah is ever Forgiving and Merciful.",
+      "source_ar": "local_approved:004/100:ar",
+      "source_tr": "local_approved:004/100:tr",
+      "source_en": "local_approved:004/100:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:38:51",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:38:51",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/105",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 105,
+      "text_ar": "إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ ۚ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًا",
+      "text_tr": "Şüphesiz, Allah'ın sana gösterdiği gibi insanlar arasında hükmetmen için Biz sana kitabı hak olarak indirdik. (Sakın) Hainlerin savunucusu olma.",
+      "text_en": "Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allah has shown you. And do not be for the deceitful an advocate.",
+      "source_ar": "local_approved:004/105:ar",
+      "source_tr": "local_approved:004/105:tr",
+      "source_en": "local_approved:004/105:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:39:04",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:39:04",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "004/141",
+      "type": "ayah",
+      "surah_name": "Nisa",
+      "surah_number": 4,
+      "ayah_number": 141,
+      "text_ar": "ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَـٰفِرِينَ نَصِيبٌ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَـٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا",
+      "text_tr": "Onlar sizi gözetleyip-duruyorlar. Size Allah'tan bir fetih (zafer ve ganimet) gelirse: \"Sizinle birlikte değil miydik?\" derler. Ama kafirlere bir pay düşerse: \"Size üstünlük sağlamadık mı, mü'minlerden size (gelecek tehlikeleri) önlemedik mi?\" derler. Allah, kıyamet günü aranızda hükmedecektir. Allah, kafirlere mü'minlerin aleyhinde kesinlikle yol vermez.",
+      "text_en": "Those who wait [and watch] you. Then if you gain a victory from Allah, they say, \"Were we not with you?\" But if the disbelievers have a success, they say [to them], \"Did we not gain the advantage over you, but we protected you from the believers?\" Allah will judge between [all of] you on the Day of Resurrection, and never will Allah give the disbelievers over the believers a way [to overcome them].",
+      "source_ar": "local_approved:004/141:ar",
+      "source_tr": "local_approved:004/141:tr",
+      "source_en": "local_approved:004/141:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:40:28",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:40:28",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "005/002",
+      "type": "ayah",
+      "surah_name": "Maide",
+      "surah_number": 5,
+      "ayah_number": 2,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَـٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَـٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا ۚ وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ ۚ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "text_tr": "Ey iman edenler, Allah'ın şiarlarına, haram olan ay'a, kurbanlık hayvanlara, (onlardaki) gerdanlıklara ve Rablerinden bir fazl ve hoşnutluk isteyerek Beyt-i Haram'a gelenlere sakın saygısızlık etmeyin. İhramdan çıktınız mı artık avlanabilirsiniz. Sizi Mescid-i Haram'dan alıkoyduklarından dolayı bir topluluğa olan kininiz, sakın sizi haddi aşmaya sürüklemesin. İyilik ve takva konusunda yardımlaşın, günah ve haddi aşmada yardımlaşmayın ve Allah'tan korkup-sakının. Gerçekten Allah (ceza ile) sonuçlandırması pek şiddetli olandır.",
+      "text_en": "O you who have believed, do not violate the rites of Allah or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of ihram, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Haram lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allah; indeed, Allah is severe in penalty.",
+      "source_ar": "local_approved:005/002:ar",
+      "source_tr": "local_approved:005/002:tr",
+      "source_en": "local_approved:005/002:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:41:11",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:41:11",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "005/011",
+      "type": "ayah",
+      "surah_name": "Maide",
+      "surah_number": 5,
+      "ayah_number": 11,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "text_tr": "Ey iman edenler, Allah'ın üzerinizdeki nimetini hatırlayın; hani bir topluluk, size ellerini uzatmaya yeltenmişti de, (Allah,) onların ellerini sizlerden geri püskürtmüştü. Allah'tan korkup-sakının. Mü'minler yalnızca Allah'a tevekkül etmelidirler.",
+      "text_en": "O you who have believed, remember the favor of Allah upon you when a people determined to extend their hands [in aggression] against you, but He withheld their hands from you; and fear Allah. And upon Allah let the believers rely.",
+      "source_ar": "local_approved:005/011:ar",
+      "source_tr": "local_approved:005/011:tr",
+      "source_en": "local_approved:005/011:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:41:22",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:41:22",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "005/035",
+      "type": "ayah",
+      "surah_name": "Maide",
+      "surah_number": 5,
+      "ayah_number": 35,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ وَجَـٰهِدُوا۟ فِى سَبِيلِهِۦ لَعَلَّكُمْ تُفْلِحُونَ",
+      "text_tr": "Ey iman edenler, Allah'tan korkup-sakının ve (sizi) O'na (yaklaştıracak) vesile arayın; O'nun yolunda cihad edin, umulur ki kurtuluşa erersiniz.",
+      "text_en": "O you who have believed, fear Allah and seek the means [of nearness] to Him and strive in His cause that you may succeed.",
+      "source_ar": "local_approved:005/035:ar",
+      "source_tr": "local_approved:005/035:tr",
+      "source_en": "local_approved:005/035:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:41:31",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:41:31",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "005/045",
+      "type": "ayah",
+      "surah_name": "Maide",
+      "surah_number": 5,
+      "ayah_number": 45,
+      "text_ar": "وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ ۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٌ لَّهُۥ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+      "text_tr": "Biz onda, onların üzerine yazdık: Cana can, göze göz, buruna burun, kulağa kulak, dişe diş ve (bütün) yaralara (karşılık da) kısas vardır. Ama kim bunu sadaka olarak bağışlarsa o kendisi için bir kefarettir. Kim Allah'ın indirdiğiyle hükmetmezse, işte onlar, zalim olanlardır.",
+      "text_en": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allah has revealed - then it is those who are the wrongdoers.",
+      "source_ar": "local_approved:005/045:ar",
+      "source_tr": "local_approved:005/045:tr",
+      "source_en": "local_approved:005/045:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:42:04",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:42:04",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "005/049",
+      "type": "ayah",
+      "surah_name": "Maide",
+      "surah_number": 5,
+      "ayah_number": 49,
+      "text_ar": "وَأَنِ ٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَٱحْذَرْهُمْ أَن يَفْتِنُوكَ عَنۢ بَعْضِ مَآ أَنزَلَ ٱللَّهُ إِلَيْكَ ۖ فَإِن تَوَلَّوْا۟ فَٱعْلَمْ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ لَفَـٰسِقُونَ",
+      "text_tr": "Aralarında Allah'ın indirdiğiyle hükmet ve onların hevalarına uyma. Allah'ın sana indirdiklerinin bir kısmından seni şaşırtmamaları için onlardan sakın. Şayet yüz çevirirlerse, bil ki, Allah bir kısım günahları nedeniyle onlara bir musibeti tattırmak istemektedir. Şüphesiz, insanların çoğu fasıklardır.",
+      "text_en": "And judge, [O Muhammad], between them by what Allah has revealed and do not follow their inclinations and beware of them, lest they tempt you away from some of what Allah has revealed to you. And if they turn away - then know that Allah only intends to afflict them with some of their [own] sins. And indeed, many among the people are defiantly disobedient.",
+      "source_ar": "local_approved:005/049:ar",
+      "source_tr": "local_approved:005/049:tr",
+      "source_en": "local_approved:005/049:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:10:45",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:10:45",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "005/067",
+      "type": "ayah",
+      "surah_name": "Maide",
+      "surah_number": 5,
+      "ayah_number": 67,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ",
+      "text_tr": "Ey peygamber, Rabbinden sana indirileni tebliğ et. Eğer (bu görevini) yapmayacak olursan, O'nun elçiliğini tebliğ etmemiş olursun. Allah seni insanlardan koruyacaktır. Şüphesiz, Allah, kafir olan bir topluluğu hidayete erdirmez.",
+      "text_en": "O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allah will protect you from the people. Indeed, Allah does not guide the disbelieving people.",
+      "source_ar": "local_approved:005/067:ar",
+      "source_tr": "local_approved:005/067:tr",
+      "source_en": "local_approved:005/067:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:10:56",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:10:56",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "006/068",
+      "type": "ayah",
+      "surah_name": "Enam",
+      "surah_number": 6,
+      "ayah_number": 68,
+      "text_ar": "وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَـٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦ ۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَـٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "text_tr": "Ayetlerimiz konusunda 'alaylı tartışmalara dalanlar:' -onlar bir başka söze geçinceye kadar- onlardan yüz çevir. Şeytan sana unutturacak olursa, bu durumda hatırlamadan sonra, artık zulmeden toplulukla beraber oturma.",
+      "text_en": "And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.",
+      "source_ar": "local_approved:006/068:ar",
+      "source_tr": "local_approved:006/068:tr",
+      "source_en": "local_approved:006/068:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:13:19",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:13:19",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "006/108",
+      "type": "ayah",
+      "surah_name": "Enam",
+      "surah_number": 6,
+      "ayah_number": 108,
+      "text_ar": "وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "text_tr": "Allah'tan başka yalvarıp-yakardıklarına (taptıklarına) sövmeyin; sonra onlar da haddi aşarak bilmeksizin Allah'a söverler. İşte böyle, Biz her ümmete yaptıklarını süslü (çekici) gösterdik, sonra onların son varışları Rablerinedir. O, yapmakta olduklarını onlara haber verecektir.",
+      "text_en": "And do not insult those they invoke other than Allah, lest they insult Allah in enmity without knowledge. Thus We have made pleasing to every community their deeds. Then to their Lord is their return, and He will inform them about what they used to do.",
+      "source_ar": "local_approved:006/108:ar",
+      "source_tr": "local_approved:006/108:tr",
+      "source_en": "local_approved:006/108:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:13:50",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:13:50",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "007/056",
+      "type": "ayah",
+      "surah_name": "Araf",
+      "surah_number": 7,
+      "ayah_number": 56,
+      "text_ar": "وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَـٰحِهَا وَٱدْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ",
+      "text_tr": "Düzene konulması (ıslahı) ndan sonra yeryüzünde bozgunculuk (fesad) çıkarmayın; O'na korkarak ve umut taşıyarak dua edin. Doğrusu Allah'ın rahmeti iyilik yapanlara pek yakındır.",
+      "text_en": "And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.",
+      "source_ar": "local_approved:007/056:ar",
+      "source_tr": "local_approved:007/056:tr",
+      "source_en": "local_approved:007/056:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:14:45",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:14:45",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "007/199",
+      "type": "ayah",
+      "surah_name": "Araf",
+      "surah_number": 7,
+      "ayah_number": 199,
+      "text_ar": "خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَـٰهِلِينَ",
+      "text_tr": "Sen af (veya kolaylık) yolunu benimse, (İslam'a) uygun olanı emret ve cahillerden yüz çevir.",
+      "text_en": "Take what is given freely, enjoin what is good, and turn away from the ignorant.",
+      "source_ar": "local_approved:007/199:ar",
+      "source_tr": "local_approved:007/199:tr",
+      "source_en": "local_approved:007/199:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:16:17",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:16:17",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "008/015",
+      "type": "ayah",
+      "surah_name": "Enfal",
+      "surah_number": 8,
+      "ayah_number": 15,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ زَحْفًا فَلَا تُوَلُّوهُمُ ٱلْأَدْبَارَ",
+      "text_tr": "Ey iman edenler, toplu olarak kafirlerle karşılaştığınız zaman, onlara arka çevirmeyin (savaştan kaçmayın).",
+      "text_en": "O you who have believed, when you meet those who disbelieve advancing [for battle], do not turn to them your backs [in flight].",
+      "source_ar": "local_approved:008/015:ar",
+      "source_tr": "local_approved:008/015:tr",
+      "source_en": "local_approved:008/015:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:16:27",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:16:27",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "008/024",
+      "type": "ayah",
+      "surah_name": "Enfal",
+      "surah_number": 8,
+      "ayah_number": 24,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَجِيبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَحُولُ بَيْنَ ٱلْمَرْءِ وَقَلْبِهِۦ وَأَنَّهُۥٓ إِلَيْهِ تُحْشَرُونَ",
+      "text_tr": "Ey iman edenler, size hayat verecek şeylere sizi çağırdığı zaman, Allah'a ve Resûlü’ne icabet edin. Ve bilin ki muhakkak Allah, kişi ile kalbi arasına girer ve siz gerçekten O'na götürülüp toplanacaksınız.",
+      "text_en": "O you who have believed, respond to Allah and to the Messenger when he calls you to that which gives you life. And know that Allah intervenes between a man and his heart and that to Him you will be gathered.",
+      "source_ar": "local_approved:008/024:ar",
+      "source_tr": "local_approved:008/024:tr",
+      "source_en": "local_approved:008/024:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:16:44",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:16:44",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "008/025",
+      "type": "ayah",
+      "surah_name": "Enfal",
+      "surah_number": 8,
+      "ayah_number": 25,
+      "text_ar": "وَٱتَّقُوا۟ فِتْنَةً لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةً ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "text_tr": "Ve sizlerden yalnızca zulmedenlere isabet etmekle kalmayan bir fitneden korkup-sakının. Bilin ki, gerçekten Allah (ceza ile) sonuçlandırması pek şiddetli olandır.",
+      "text_en": "And fear a trial which will not strike those who have wronged among you exclusively, and know that Allah is severe in penalty.",
+      "source_ar": "local_approved:008/025:ar",
+      "source_tr": "local_approved:008/025:tr",
+      "source_en": "local_approved:008/025:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:16:58",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:16:58",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "008/045",
+      "type": "ayah",
+      "surah_name": "Enfal",
+      "surah_number": 8,
+      "ayah_number": 45,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا لَقِيتُمْ فِئَةً فَٱثْبُتُوا۟ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+      "text_tr": "Ey iman edenler, bir toplulukla karşı karşıya geldiğiniz zaman, dayanıklılık gösterin ve Allah'ı çokça zikredin. Ki kurtuluş (felah) bulasınız.",
+      "text_en": "O you who have believed, when you encounter a company [from the enemy forces], stand firm and remember Allah much that you may be successful.",
+      "source_ar": "local_approved:008/045:ar",
+      "source_tr": "local_approved:008/045:tr",
+      "source_en": "local_approved:008/045:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:21:30",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:21:30",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "008/057",
+      "type": "ayah",
+      "surah_name": "Enfal",
+      "surah_number": 8,
+      "ayah_number": 57,
+      "text_ar": "فَإِمَّا تَثْقَفَنَّهُمْ فِى ٱلْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ",
+      "text_tr": "Bundan dolayı, savaşta onları yakalarsan, öyle darmadağın et ki, onlarla arkalarından gelecek olanlar(ı caydır). Umulur ki ibret alırlar.",
+      "text_en": "So if you, [O Muhammad], gain dominance over them in war, disperse by [means of] them those behind them that perhaps they will be reminded.",
+      "source_ar": "local_approved:008/057:ar",
+      "source_tr": "local_approved:008/057:tr",
+      "source_en": "local_approved:008/057:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:42:17",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:42:17",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "008/060",
+      "type": "ayah",
+      "surah_name": "Enfal",
+      "surah_number": 8,
+      "ayah_number": 60,
+      "text_ar": "وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ",
+      "text_tr": "Onlara karşı gücünüzün yettiği kadar kuvvet ve besili atlar hazırlayın. Bununla, Allah'ın düşmanı ve sizin düşmanınızı ve bunların dışında sizin bilmeyip Allah'ın bildiği diğer (düşmanları) korkutup-caydırasınız. Allah yolunda her ne infak ederseniz, size 'eksiksiz olarak ödenir' ve siz haksızlığa uğratılmazsınız.",
+      "text_en": "And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allah and your enemy and others besides them whom you do not know [but] whom Allah knows. And whatever you spend in the cause of Allah will be fully repaid to you, and you will not be wronged.",
+      "source_ar": "local_approved:008/060:ar",
+      "source_tr": "local_approved:008/060:tr",
+      "source_en": "local_approved:008/060:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:42:36",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:42:36",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "008/061",
+      "type": "ayah",
+      "surah_name": "Enfal",
+      "surah_number": 8,
+      "ayah_number": 61,
+      "text_ar": "وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "text_tr": "Eğer onlar barışa eğilim gösterirlerse, sen de ona eğilim göster ve Allah'a tevekkül et. Çünkü O, işitendir, bilendir.",
+      "text_en": "And if they incline to peace, then incline to it [also] and rely upon Allah. Indeed, it is He who is the Hearing, the Knowing.",
+      "source_ar": "local_approved:008/061:ar",
+      "source_tr": "local_approved:008/061:tr",
+      "source_en": "local_approved:008/061:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:42:59",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:42:59",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/014",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 14,
+      "text_ar": "قَـٰتِلُوهُمْ يُعَذِّبْهُمُ ٱللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ",
+      "text_tr": "Onlarla çarpışınız. Allah, onları sizin ellerinizle azaplandırsın, hor ve aşağılık kılsın ve onlara karşı size zafer versin, mü'minler topluluğunun göğsünü şifaya kavuştursun.",
+      "text_en": "Fight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people",
+      "source_ar": "local_approved:009/014:ar",
+      "source_tr": "local_approved:009/014:tr",
+      "source_en": "local_approved:009/014:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:44:27",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:44:27",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/016",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 16,
+      "text_ar": "أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَلَمْ يَتَّخِذُوا۟ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلْمُؤْمِنِينَ وَلِيجَةً ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "text_tr": "Yoksa siz, içinizden cihad edenleri ve Allah'tan ve Resûlü’nden ve mü'minlerden başka sır-dostu edinmeyenleri Allah 'bilip (ortaya) çıkarmadan' bırakılıvereceğinizi mi sandınız? Allah yaptıklarınızdan haberdardır.",
+      "text_en": "Do you think that you will be left [as you are] while Allah has not yet made evident those among you who strive [for His cause] and do not take other than Allah, His Messenger and the believers as intimates? And Allah is Acquainted with what you do.",
+      "source_ar": "local_approved:009/016:ar",
+      "source_tr": "local_approved:009/016:tr",
+      "source_en": "local_approved:009/016:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:44:57",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:44:57",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/023",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 23,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَـٰنِ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+      "text_tr": "Ey iman edenler, eğer imana karşı inkarı sevip-tercih ediyorlarsa, babalarınızı ve kardeşlerinizi veliler edinmeyin. Sizden kim onları veli edinirse, işte bunlar zulmeden kimselerdir.",
+      "text_en": "O you who have believed, do not take your fathers or your brothers as allies if they have preferred disbelief over belief. And whoever does so among you - then it is those who are the wrongdoers.",
+      "source_ar": "local_approved:009/023:ar",
+      "source_tr": "local_approved:009/023:tr",
+      "source_en": "local_approved:009/023:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:45:10",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:45:10",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/024",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 24,
+      "text_ar": "قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَـٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَـٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+      "text_tr": "De ki: \"Eğer babalarınız, çocuklarınız, kardeşleriniz, eşleriniz, aşiretiniz, kazandığınız mallar, az kar getireceğinden korktuğunuz ticaret ve hoşunuza giden evler, sizlere Allah'tan, O'nun Resûlü’nden ve O'nun yolunda cihad etmekten daha sevimli ise, artık Allah'ın emri gelinceye kadar bekleyedurun. Allah, fasıklar topluluğuna hidayet vermez.",
+      "text_en": "Say, [O Muhammad], \"If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allah and His Messenger and jihad in His cause, then wait until Allah executes His command. And Allah does not guide the defiantly disobedient people.\"",
+      "source_ar": "local_approved:009/024:ar",
+      "source_tr": "local_approved:009/024:tr",
+      "source_en": "local_approved:009/024:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:46:59",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:46:59",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/038",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 38,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ ۚ فَمَا مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ",
+      "text_tr": "Ey iman edenler, ne oldu ki size, Allah yolunda savaşa kuşanın denildiği zaman, yer(iniz)de ağırlaşıp kaldınız? Ahiretten (cayıp) dünya hayatına mı razı oldunuz? Ama ahirettekine (göre), bu dünya hayatının yararı pek azdır.",
+      "text_en": "O you who have believed, what is [the matter] with you that, when you are told to go forth in the cause of Allah, you adhere heavily to the earth? Are you satisfied with the life of this world rather than the Hereafter? But what is the enjoyment of worldly life compared to the Hereafter except a [very] little.",
+      "source_ar": "local_approved:009/038:ar",
+      "source_tr": "local_approved:009/038:tr",
+      "source_en": "local_approved:009/038:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:47:12",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:47:12",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/041",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 41,
+      "text_ar": "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "text_tr": "Hafif ve ağır savaşa kuşanıp çıkın ve Allah yolunda mallarınızla ve canlarınızla cihad edin. Eğer bilirseniz, bu sizin için daha hayırlıdır.",
+      "text_en": "Go forth, whether light or heavy, and strive with your wealth and your lives in the cause of Allah. That is better for you, if you only knew.",
+      "source_ar": "local_approved:009/041:ar",
+      "source_tr": "local_approved:009/041:tr",
+      "source_en": "local_approved:009/041:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:47:21",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:47:21",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/073",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 73,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "text_tr": "Ey Peygamber, kafirlerle ve münafıklarla cihad et ve onlara karşı sert ve caydırıcı davran. Onların barınma yerleri cehennemdir, ne kötü bir yataktır o!..",
+      "text_en": "O Prophet, fight against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination.",
+      "source_ar": "local_approved:009/073:ar",
+      "source_tr": "local_approved:009/073:tr",
+      "source_en": "local_approved:009/073:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:47:39",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:47:39",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/111",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 111,
+      "text_ar": "إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "text_tr": "Hiç şüphesiz Allah, mü'minlerden -karşılığında onlara mutlaka cenneti vermek üzere- canlarını ve mallarını satın almıştır. Onlar Allah yolunda savaşırlar, öldürürler ve öldürülürler; (bu,) Tevrat'ta, İncil'de ve Kur'an'da O'nun üzerine gerçek olan bir vaaddir. Allah'tan daha çok ahdine vefa gösterecek olan kimdir? Şu halde yaptığınız bu alış-verişten dolayı sevinip-müjdeleşiniz. İşte 'büyük kurtuluş ve mutluluk' budur.",
+      "text_en": "Indeed, Allah has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise. They fight in the cause of Allah, so they kill and are killed. [It is] a true promise [binding] upon Him in the Torah and the Gospel and the Qur'an. And who is truer to his covenant than Allah? So rejoice in your transaction which you have contracted. And it is that which is the great attainment.",
+      "source_ar": "local_approved:009/111:ar",
+      "source_tr": "local_approved:009/111:tr",
+      "source_en": "local_approved:009/111:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:48:00",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:48:00",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/119",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 119,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّـٰدِقِينَ",
+      "text_tr": "Ey iman edenler, Allah'tan sakının ve doğru (sadık)larla birlikte olun.",
+      "text_en": "O you who have believed, fear Allah and be with those who are true.",
+      "source_ar": "local_approved:009/119:ar",
+      "source_tr": "local_approved:009/119:tr",
+      "source_en": "local_approved:009/119:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:48:10",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:48:10",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "009/123",
+      "type": "ayah",
+      "surah_name": "Tevbe",
+      "surah_number": 9,
+      "ayah_number": 123,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَـٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+      "text_tr": "Ey iman edenler, inkar edenlerden size en yakın olanlarla savaşın; sizde 'bir güç ve caydırıcılık' görsünler. Ve bilin ki gerçekten Allah takva sahipleriyle beraberdir.",
+      "text_en": "O you who have believed, fight those adjacent to you of the disbelievers and let them find in you harshness. And know that Allah is with the righteous.",
+      "source_ar": "local_approved:009/123:ar",
+      "source_tr": "local_approved:009/123:tr",
+      "source_en": "local_approved:009/123:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:48:55",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:48:55",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "010/085",
+      "type": "ayah",
+      "surah_name": "Yunus",
+      "surah_number": 10,
+      "ayah_number": 85,
+      "text_ar": "فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "text_tr": "Dediler ki: \"Biz Allah'a tevekkül ettik; Rabbimiz, bizi zulmeden bir kavim için bir fitne (konusu) kılma.\"",
+      "text_en": "So they said, \"Upon Allah do we rely. Our Lord, make us not [objects of] trial for the wrongdoing people",
+      "source_ar": "local_approved:010/085:ar",
+      "source_tr": "local_approved:010/085:tr",
+      "source_en": "local_approved:010/085:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:49:09",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:49:09",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "010/087",
+      "type": "ayah",
+      "surah_name": "Yunus",
+      "surah_number": 10,
+      "ayah_number": 87,
+      "text_ar": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "text_tr": "Musa ve kardeşine (şöyle) vahyettik: \"Mısır'da kavminiz için evler hazırlayın, evlerinizi namaz kılınan (ve kıbleye dönük) yerler yapın ve namazı dosdoğru kılın. Mü'minleri de müjdele.\"",
+      "text_en": "And We inspired to Moses and his brother, \"Settle your people in Egypt in houses and make your houses [facing the] qiblah and establish prayer and give good tidings to the believers.\"",
+      "source_ar": "local_approved:010/087:ar",
+      "source_tr": "local_approved:010/087:tr",
+      "source_en": "local_approved:010/087:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:50:18",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:50:18",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "012/040",
+      "type": "ayah",
+      "surah_name": "Yusuf",
+      "surah_number": 12,
+      "ayah_number": 40,
+      "text_ar": "مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءً سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "text_tr": "\"Sizin Allah'tan başka taptıklarınız, Allah'ın kendileri hakkında hiçbir delil indirmediği, sizin ve atalarınızın ad olarak adlandırdıklarınızdan başkası değildir. Hüküm, yalnızca Allah'ındır. O, Kendisi'nden başkasına kulluk etmemenizi emretmiştir. Dosdoğru olan din işte budur, ancak insanların çoğu bilmezler.\"",
+      "text_en": "You worship not besides Him except [mere] names you have named them, you and your fathers, for which Allah has sent down no authority. Legislation is not but for Allah. He has commanded that you worship not except Him. That is the correct religion, but most of the people do not know.",
+      "source_ar": "local_approved:012/040:ar",
+      "source_tr": "local_approved:012/040:tr",
+      "source_en": "local_approved:012/040:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:52:18",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:52:18",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "014/012",
+      "type": "ayah",
+      "surah_name": "Ibrahim",
+      "surah_number": 14,
+      "ayah_number": 12,
+      "text_ar": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "text_tr": "\"Bize ne oluyor ki, Allah'a tevekkül etmeyelim? Bize doğru olan yolları O göstermiştir. Ve elbette bize yaptığınız işkencelere karşı sabredeceğiz. Tevekkül edenler Allah'a tevekkül etmelidirler.\"",
+      "text_en": "And why should we not rely upon Allah while He has guided us to our [good] ways. And we will surely be patient against whatever harm you should cause us. And upon Allah let those who would rely [indeed] rely.\"",
+      "source_ar": "local_approved:014/012:ar",
+      "source_tr": "local_approved:014/012:tr",
+      "source_en": "local_approved:014/012:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:52:36",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:52:36",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "016/125",
+      "type": "ayah",
+      "surah_name": "Nahl",
+      "surah_number": 16,
+      "ayah_number": 125,
+      "text_ar": "ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ ۖ وَجَـٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "text_tr": "Rabbinin yoluna hikmetle ve güzel öğütle çağır ve onlarla en güzel bir biçimde mücadele et. Şüphesiz senin Rabbin yolundan sapanı bilendir ve hidayete ereni de bilendir.",
+      "text_en": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided.",
+      "source_ar": "local_approved:016/125:ar",
+      "source_tr": "local_approved:016/125:tr",
+      "source_en": "local_approved:016/125:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:53:56",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:53:56",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "017/036",
+      "type": "ayah",
+      "surah_name": "Isra",
+      "surah_number": 17,
+      "ayah_number": 36,
+      "text_ar": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا",
+      "text_tr": "Hakkında bilgin olmayan şeyin ardına düşme; çünkü kulak, göz ve kalp, bunların hepsi ondan sorumludur.",
+      "text_en": "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned.",
+      "source_ar": "local_approved:017/036:ar",
+      "source_tr": "local_approved:017/036:tr",
+      "source_en": "local_approved:017/036:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:54:19",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:54:19",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "017/081",
+      "type": "ayah",
+      "surah_name": "Isra",
+      "surah_number": 17,
+      "ayah_number": 81,
+      "text_ar": "وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَـٰطِلُ ۚ إِنَّ ٱلْبَـٰطِلَ كَانَ زَهُوقًا",
+      "text_tr": "De ki: \"Hak geldi, batıl yok oldu. Hiç şüphesiz batıl yok olucudur.\"",
+      "text_en": "And say, \"Truth has come, and falsehood has departed. Indeed is falsehood, [by nature], ever bound to depart.\"",
+      "source_ar": "local_approved:017/081:ar",
+      "source_tr": "local_approved:017/081:tr",
+      "source_en": "local_approved:017/081:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:54:25",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:54:25",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "018/014",
+      "type": "ayah",
+      "surah_name": "Kehf",
+      "surah_number": 18,
+      "ayah_number": 14,
+      "text_ar": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَـٰهًا ۖ لَّقَدْ قُلْنَآ إِذًا شَطَطًا",
+      "text_tr": "Onların kalpleri üzerinde (sabrı ve kararlılığı) rabtetmiştik; (Krala karşı) Kıyam ettiklerinde demişlerdi ki: \"Bizim Rabbimiz, göklerin ve yerin Rabbidir; İlah olarak biz O'ndan başkasına kesinlikle tapmayız, (eğer tersini) söyleyecek olursak, andolsun, gerçeğin dışına çıkarız.\"",
+      "text_en": "And We made firm their hearts when they stood up and said, \"Our Lord is the Lord of the heavens and the earth. Never will we invoke besides Him any deity. We would have certainly spoken, then, an excessive transgression.",
+      "source_ar": "local_approved:018/014:ar",
+      "source_tr": "local_approved:018/014:tr",
+      "source_en": "local_approved:018/014:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:55:01",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:55:01",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "019/059",
+      "type": "ayah",
+      "surah_name": "Meryem",
+      "surah_number": 19,
+      "ayah_number": 59,
+      "text_ar": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+      "text_tr": "Sonra onların arkasından öyle nesiller türedi ki, namaz (kılma duyarlılığın)ı kaybettiler ve şehvetlerine kapılıp-uydular. Böylece bunlar azgınlıklarının cezasıyla karşılaşacaklardır.",
+      "text_en": "But there came after them successors who neglected prayer and pursued desires; so they are going to meet evil -",
+      "source_ar": "local_approved:019/059:ar",
+      "source_tr": "local_approved:019/059:tr",
+      "source_en": "local_approved:019/059:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:55:18",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:55:18",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "022/038",
+      "type": "ayah",
+      "surah_name": "Hac",
+      "surah_number": 22,
+      "ayah_number": 38,
+      "text_ar": "إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓا۟ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+      "text_tr": "Şüphesiz Allah, (müşriklerin saldırı ve sinsi tuzaklarını) iman edenlerden uzaklaştırmaktadır. Gerçekten Allah, hain ve nankör olan kimseyi sevmez.",
+      "text_en": "Indeed, Allah defends those who have believed. Indeed, Allah does not like everyone treacherous and ungrateful.",
+      "source_ar": "local_approved:022/038:ar",
+      "source_tr": "local_approved:022/038:tr",
+      "source_en": "local_approved:022/038:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:55:42",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:55:42",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "022/039",
+      "type": "ayah",
+      "surah_name": "Hac",
+      "surah_number": 22,
+      "ayah_number": 39,
+      "text_ar": "أُذِنَ لِلَّذِينَ يُقَـٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+      "text_tr": "Kendilerine zulmedilmesi dolayısıyla, onlara karşı savaş açılana (mü'minlere, savaşma) izni verildi. Şüphesiz Allah, onlara yardım etmeye güç yetirendir.",
+      "text_en": "Permission [to fight] has been given to those who are being fought, because they were wronged. And indeed, Allah is competent to give them victory.",
+      "source_ar": "local_approved:022/039:ar",
+      "source_tr": "local_approved:022/039:tr",
+      "source_en": "local_approved:022/039:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:55:52",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:55:52",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "022/041",
+      "type": "ayah",
+      "surah_name": "Hac",
+      "surah_number": 22,
+      "ayah_number": 41,
+      "text_ar": "ٱلَّذِينَ إِن مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟ بِٱلْمَعْرُوفِ وَنَهَوْا۟ عَنِ ٱلْمُنكَرِ ۗ وَلِلَّهِ عَـٰقِبَةُ ٱلْأُمُورِ",
+      "text_tr": "Onlar ki, yeryüzünde kendilerini yerleştirir, iktidar sahibi kılarsak, dosdoğru namazı kılarlar, zekatı verirler, ma'rufu emrederler, münkerden sakındırırlar. Bütün işlerin sonu Allah'a aittir.",
+      "text_en": "[And they are] those who, if We give them authority in the land, establish prayer and give zakah and enjoin what is right and forbid what is wrong. And to Allah belongs the outcome of [all] matters.",
+      "source_ar": "local_approved:022/041:ar",
+      "source_tr": "local_approved:022/041:tr",
+      "source_en": "local_approved:022/041:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:56:06",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:56:06",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "023/052",
+      "type": "ayah",
+      "surah_name": "Muminun",
+      "surah_number": 23,
+      "ayah_number": 52,
+      "text_ar": "وَإِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱتَّقُونِ",
+      "text_tr": "İşte sizin ümmetiniz bir tek ümmettir ve Ben de sizin Rabbinizim; öyleyse Benden korkup-sakının.",
+      "text_en": "And indeed this, your religion, is one religion, and I am your Lord, so fear Me.\"",
+      "source_ar": "local_approved:023/052:ar",
+      "source_tr": "local_approved:023/052:tr",
+      "source_en": "local_approved:023/052:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:56:15",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:56:15",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "023/053",
+      "type": "ayah",
+      "surah_name": "Muminun",
+      "surah_number": 23,
+      "ayah_number": 53,
+      "text_ar": "فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
+      "text_tr": "Ancak onlar, işlerini kendi aralarında (farklı) kitaplar halinde böldüler; her bir grup, kendi ellerinde olanla yetinip sevinmektedir.",
+      "text_en": "But the people divided their religion among them into sects - each faction, in what it has, rejoicing.",
+      "source_ar": "local_approved:023/053:ar",
+      "source_tr": "local_approved:023/053:tr",
+      "source_en": "local_approved:023/053:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:56:36",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:56:36",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "024/055",
+      "type": "ayah",
+      "surah_name": "Nur",
+      "surah_number": 24,
+      "ayah_number": 55,
+      "text_ar": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِى لَا يُشْرِكُونَ بِى شَيْـًٔا ۚ وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+      "text_tr": "Allah, içinizden iman edenlere ve salih amellerde bulunanlara va'detmiştir: Hiç şüphesiz onlardan öncekileri nasıl 'güç ve iktidar sahibi' kıldıysa, onları da yeryüzünde 'güç ve iktidar sahibi' kılacak, kendileri için seçip beğendiği dinlerini kendilerine yerleşik kılıp sağlamlaştıracak ve onları korkularından sonra güvenliğe çevirecektir. Onlar, yalnızca Bana ibadet ederler ve Bana hiçbir şeyi ortak koşmazlar. Kim bundan sonra inkar ederse, işte onlar fasıktır.",
+      "text_en": "Allah has promised those who have believed among you and done righteous deeds that He will surely grant them succession [to authority] upon the earth just as He granted it to those before them and that He will surely establish for them [therein] their religion which He has preferred for them and that He will surely substitute for them, after their fear, security, [for] they worship Me, not associating anything with Me. But whoever disbelieves after that - then those are the defiantly disobedient.",
+      "source_ar": "local_approved:024/055:ar",
+      "source_tr": "local_approved:024/055:tr",
+      "source_en": "local_approved:024/055:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:57:07",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:57:07",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "029/069",
+      "type": "ayah",
+      "surah_name": "Ankebut",
+      "surah_number": 29,
+      "ayah_number": 69,
+      "text_ar": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+      "text_tr": "Bizim uğrumuzda cihad edenlere, şüphesiz yollarımızı gösteririz. Gerçekten Allah, ihsan edenlerle beraberdir.",
+      "text_en": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+      "source_ar": "local_approved:029/069:ar",
+      "source_tr": "local_approved:029/069:tr",
+      "source_en": "local_approved:029/069:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:57:38",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:57:38",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "030/030",
+      "type": "ayah",
+      "surah_name": "Rum",
+      "surah_number": 30,
+      "ayah_number": 30,
+      "text_ar": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "text_tr": "Öyleyse sen yüzünü Allah'ı birleyen (bir hanif) olarak dine, Allah'ın o fıtratına çevir; ki insanları bunun üzerine yaratmıştır. Allah'ın yaratışı için hiçbir değiştirme yoktur. İşte dimdik ayakta duran din (budur). Ancak insanların çoğu bilmezler.",
+      "text_en": "So direct your face toward the religion, inclining to truth. [Adhere to] the fitrah of Allah upon which He has created [all] people. No change should there be in the creation of Allah. That is the correct religion, but most of the people do not know.",
+      "source_ar": "local_approved:030/030:ar",
+      "source_tr": "local_approved:030/030:tr",
+      "source_en": "local_approved:030/030:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T16:57:56",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T16:57:56",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "031/017",
+      "type": "ayah",
+      "surah_name": "Lokman",
+      "surah_number": 31,
+      "ayah_number": 17,
+      "text_ar": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "text_tr": "\"Ey oğlum, namazı dosdoğru kıl, ma'rufu emret, münkerden sakındır ve sana isabet eden (musibetler)e karşı sabret. Çünkü bunlar, azmedilmesi gereken işlerdendir.",
+      "text_en": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] determination.",
+      "source_ar": "local_approved:031/017:ar",
+      "source_tr": "local_approved:031/017:tr",
+      "source_en": "local_approved:031/017:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:10:06",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:10:06",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "033/021",
+      "type": "ayah",
+      "surah_name": "Ahzab",
+      "surah_number": 33,
+      "ayah_number": 21,
+      "text_ar": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+      "text_tr": "Andolsun, sizin için, Allah'ı ve ahiret gününü umanlar ve Allah'ı çokça zikredenler için Allah'ın Resûlü’nde güzel bir örnek vardır.",
+      "text_en": "There has certainly been for you in the Messenger of Allah an excellent pattern for anyone whose hope is in Allah and the Last Day and [who] remembers Allah often.",
+      "source_ar": "local_approved:033/021:ar",
+      "source_tr": "local_approved:033/021:tr",
+      "source_en": "local_approved:033/021:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:11:28",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:11:28",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "033/070",
+      "type": "ayah",
+      "surah_name": "Ahzab",
+      "surah_number": 33,
+      "ayah_number": 70,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوْلًا سَدِيدًا",
+      "text_tr": "Ey iman edenler, Allah'tan sakının ve sözü doğru söyleyin.",
+      "text_en": "O you who have believed, fear Allah and speak words of appropriate justice.",
+      "source_ar": "local_approved:033/070:ar",
+      "source_tr": "local_approved:033/070:tr",
+      "source_en": "local_approved:033/070:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:11:36",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:11:36",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "041/030",
+      "type": "ayah",
+      "surah_name": "Fussilet",
+      "surah_number": 41,
+      "ayah_number": 30,
+      "text_ar": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَـٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+      "text_tr": "Şüphesiz: \"Bizim Rabbimiz Allah'tır\" deyip sonra dosdoğru bir istikamet tutturanlar (yok mu); onların üzerine melekler iner (ve der ki:) \"Korkmayın ve hüzne kapılmayın, size vadolunan cennetle sevinin.\"",
+      "text_en": "Indeed, those who have said, \"Our Lord is Allah \" and then remained on a right course - the angels will descend upon them, [saying], \"Do not fear and do not grieve but receive good tidings of Paradise, which you were promised.",
+      "source_ar": "local_approved:041/030:ar",
+      "source_tr": "local_approved:041/030:tr",
+      "source_en": "local_approved:041/030:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:11:53",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:11:53",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "042/038",
+      "type": "ayah",
+      "surah_name": "Sura",
+      "surah_number": 42,
+      "ayah_number": 38,
+      "text_ar": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+      "text_tr": "Rablerine icabet edenler, namazı dosdoğru kılanlar, işleri kendi aralarında şura ile olanlar ve kendilerine rızık olarak verdiklerimizden infak edenler,",
+      "text_en": "And those who have responded to their lord and established prayer and whose affair is [determined by] consultation among themselves, and from what We have provided them, they spend.",
+      "source_ar": "local_approved:042/038:ar",
+      "source_tr": "local_approved:042/038:tr",
+      "source_en": "local_approved:042/038:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:13:30",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:13:30",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "042/040",
+      "type": "ayah",
+      "surah_name": "Sura",
+      "surah_number": 42,
+      "ayah_number": 40,
+      "text_ar": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+      "text_tr": "Kötülüğün karşılığı, onun misli (benzeri) olan kötülüktür. Ama kim affeder ve ıslah ederse (dirliği kurup-sağlarsa) artık onun ecri Allah'a aittir. Gerçekten O, zalimleri sevmez.",
+      "text_en": "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allah. Indeed, He does not like wrongdoers.",
+      "source_ar": "local_approved:042/040:ar",
+      "source_tr": "local_approved:042/040:tr",
+      "source_en": "local_approved:042/040:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:13:44",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:13:44",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "042/043",
+      "type": "ayah",
+      "surah_name": "Sura",
+      "surah_number": 42,
+      "ayah_number": 43,
+      "text_ar": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+      "text_tr": "Kim sabreder ve bağışlarsa, şüphesiz bu, azme değer işlerdendir.",
+      "text_en": "And whoever is patient and forgives - indeed, that is of the matters [requiring] determination.",
+      "source_ar": "local_approved:042/043:ar",
+      "source_tr": "local_approved:042/043:tr",
+      "source_en": "local_approved:042/043:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:13:51",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:13:51",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "047/007",
+      "type": "ayah",
+      "surah_name": "Muhammed",
+      "surah_number": 47,
+      "ayah_number": 7,
+      "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "text_tr": "Ey iman edenler, eğer siz Allah'a (Allah adına İslama ve Müslümanlara) yardım ederseniz, O da size yardım eder ve sizin ayaklarınızı sağlamlaştırır.",
+      "text_en": "O you who have believed, if you support Allah, He will support you and plant firmly your feet.",
+      "source_ar": "local_approved:047/007:ar",
+      "source_tr": "local_approved:047/007:tr",
+      "source_en": "local_approved:047/007:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:16:11",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:16:11",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "047/035",
+      "type": "ayah",
+      "surah_name": "Muhammed",
+      "surah_number": 47,
+      "ayah_number": 35,
+      "text_ar": "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ",
+      "text_tr": "Öyleyse, siz üstün (bir durumda) iken, barışa çağırmak suretiyle gevşekliğe düşmeyin. Allah, sizinle beraberdir; O, sizin amellerinizi asla eksiltmez.",
+      "text_en": "So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of [the reward of] your deeds.",
+      "source_ar": "local_approved:047/035:ar",
+      "source_tr": "local_approved:047/035:tr",
+      "source_en": "local_approved:047/035:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:16:40",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:16:40",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "061/004",
+      "type": "ayah",
+      "surah_name": "Saff",
+      "surah_number": 61,
+      "ayah_number": 4,
+      "text_ar": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ",
+      "text_tr": "Şüphesiz Allah, Kendi yolunda, sanki birbirlerine kenetlenmiş bir bina gibi saf bağlayarak çarpışanları sever.",
+      "text_en": "Indeed, Allah loves those who fight in His cause in a row as though they are a [single] structure joined firmly.",
+      "source_ar": "local_approved:061/004:ar",
+      "source_tr": "local_approved:061/004:tr",
+      "source_en": "local_approved:061/004:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:18:38",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:18:38",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "061/011",
+      "type": "ayah",
+      "surah_name": "Saff",
+      "surah_number": 61,
+      "ayah_number": 11,
+      "text_ar": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "text_tr": "Allah'a ve O'nun Resulü’ne iman edersiniz, mallarınızla ve canlarınızla Allah yolunda mücadele edersiniz. Bu, sizin için daha hayırlıdır; eğer bilirseniz.",
+      "text_en": "[It is that] you believe in Allah and His Messenger and strive in the cause of Allah with your wealth and your lives. That is best for you, if you should know.",
+      "source_ar": "local_approved:061/011:ar",
+      "source_tr": "local_approved:061/011:tr",
+      "source_en": "local_approved:061/011:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:27:14",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:27:14",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/011",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 11,
+      "text_ar": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ",
+      "text_tr": "Kendilerine: \"Yeryüzünde fesat çıkarmayın\" denildiğinde: \"Biz sadece ıslah edicileriz\" derler.",
+      "text_en": "And when it is said to them, \"Do not cause corruption on the earth,\" they say, \"We are but reformers.\"",
+      "source_ar": "local_approved:002/011:ar",
+      "source_tr": "local_approved:002/011:tr",
+      "source_en": "local_approved:002/011:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:51:22",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:51:22",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/013",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 13,
+      "text_ar": "وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لَّا يَعْلَمُونَ",
+      "text_tr": "Ve (yine) kendilerine: \"İnsanların iman ettiği gibi siz de iman edin\" denildiğinde: \"Düşük akıllıların iman ettiği gibi mi iman edelim?\" derler. Bilin ki, gerçekten asıl düşük-akıllılar kendileridir; ama bilmezler.",
+      "text_en": "And when it is said to them, \"Believe as the people have believed,\" they say, \"Should we believe as the foolish have believed?\" Unquestionably, it is they who are the foolish, but they know [it] not.",
+      "source_ar": "local_approved:002/013:ar",
+      "source_tr": "local_approved:002/013:tr",
+      "source_en": "local_approved:002/013:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:52:51",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:52:51",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/022",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 22,
+      "text_ar": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ ۖ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ",
+      "text_tr": "O, sizin için yeryüzünü bir döşek, gökyüzünü bir bina kıldı. Ve gökten yağmur indirerek bununla sizin için (çeşitli) ürünlerden rızık çıkardı. Öyleyse (bütün bunları) bile bile Allah'a eşler koşmayın.",
+      "text_en": "[He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allah equals while you know [that there is nothing similar to Him].",
+      "source_ar": "local_approved:002/022:ar",
+      "source_tr": "local_approved:002/022:tr",
+      "source_en": "local_approved:002/022:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:55:15",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T22:55:15",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/027",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 27,
+      "text_ar": "ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "text_tr": "Ki (bunlar) Allah'ın ahdini, onu kesin olarak onayladıktan sonra bozarlar, Allah'ın kendisiyle birleştirilmesini emrettiği şeyi keserler ve yeryüzünde bozgunculuk çıkarırlar. Kayba uğrayanlar, işte bunlardır.",
+      "text_en": "Who break the covenant of Allah after contracting it and sever that which Allah has ordered to be joined and cause corruption on earth. It is those who are the losers.",
+      "source_ar": "local_approved:002/027:ar",
+      "source_tr": "local_approved:002/027:tr",
+      "source_en": "local_approved:002/027:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:13:47",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:13:47",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/030",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 30,
+      "text_ar": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً ۖ قَالُوٓا۟ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ",
+      "text_tr": "Hani Rabbin meleklere: \"Muhakkak Ben, yeryüzünde bir halife var edeceğim\" demişti. Onlar da: \"Biz Seni şükrünle yüceltir ve (sürekli) takdis ederken, orada bozgunculuk çıkaracak ve kanlar akıtacak birini mi var edeceksin?\" dediler. (Allah:) \"Şüphesiz sizin bilmediğinizi Ben bilirim\" dedi.",
+      "text_en": "And [mention, O Muhammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\" They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?\" Allah said, \"Indeed, I know that which you do not know.\"",
+      "source_ar": "local_approved:002/030:ar",
+      "source_tr": "local_approved:002/030:tr",
+      "source_en": "local_approved:002/030:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:16:59",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:16:59",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/035",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 35,
+      "text_ar": "وَقُلْنَا يَـٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ",
+      "text_tr": "Ve dedik ki: \"Ey Adem, sen ve eşin cennette yerleş. İkiniz de ondan, neresinden dilerseniz, bol bol yiyin; ama şu ağaca yaklaşmayın, yoksa zalimlerden olursunuz.\"",
+      "text_en": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.\"",
+      "source_ar": "local_approved:002/035:ar",
+      "source_tr": "local_approved:002/035:tr",
+      "source_en": "local_approved:002/035:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:17:57",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:17:57",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/060",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 60,
+      "text_ar": "وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "text_tr": "(Yine) Hatırlayın; Musa kavmi için su aramıştı, o zaman Biz ona: \"Asanı taşa vur\" demiştik de ondan on iki pınar fışkırmıştı, böylece herkes içeceği yeri bilmişti. Allah'ın verdiği rızıktan yiyin, için ve yeryüzünde bozgunculuk (fesad) yaparak karışıklık çıkarmayın.",
+      "text_en": "And [recall] when Moses prayed for water for his people, so We said, \"Strike with your staff the stone.\" And there gushed forth from it twelve springs, and every people knew its watering place. \"Eat and drink from the provision of Allah, and do not commit abuse on the earth, spreading corruption.\"",
+      "source_ar": "local_approved:002/060:ar",
+      "source_tr": "local_approved:002/060:tr",
+      "source_en": "local_approved:002/060:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:23:13",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:23:13",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/062",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 62,
+      "text_ar": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَـٰرَىٰ وَٱلصَّـٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَـٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "text_tr": "Şüphesiz, iman edenler(le) Yahudiler, Hıristiyanlar ve Sabiiler(den kim) Allah'a ve ahiret gününe iman eder ve salih amellerde bulunursa, artık onların Allah Katında ecirleri vardır. Onlara korku yoktur ve onlar mahzun olmayacaklardır.",
+      "text_en": "Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muhammad] - those [among them] who believed in Allah and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve.",
+      "source_ar": "local_approved:002/062:ar",
+      "source_tr": "local_approved:002/062:tr",
+      "source_en": "local_approved:002/062:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:23:41",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:23:41",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/075",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 75,
+      "text_ar": "أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَـٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ",
+      "text_tr": "Siz (Müslümanlar,) onların size inanacaklarını umuyor musunuz? Oysa onlardan bir bölümü, Allah'ın sözünü işitiyor, (iyice algılayıp) akıl erdirdikten sonra, bile bile değiştiriyorlardı.",
+      "text_en": "Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allah and then distort the Torah after they had understood it while they were knowing?",
+      "source_ar": "local_approved:002/075:ar",
+      "source_tr": "local_approved:002/075:tr",
+      "source_en": "local_approved:002/075:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:24:33",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:24:33",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/083",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 83,
+      "text_ar": "وَإِذْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+      "text_tr": "Hani İsrailoğulları’ndan, \"Allah'tan başkasına kulluk etmeyin, anneye-babaya, yakınlara, yetimlere ve yoksullara iyilikle davranın, insanlara güzel söz söyleyin, namazı dosdoğru kılın ve zekatı verin\" diye misak almıştık. Sonra siz, pek azınız hariç, döndünüz ve (hala) yüz çeviriyorsunuz.",
+      "text_en": "And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], \"Do not worship except Allah; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakah.\" Then you turned away, except a few of you, and you were refusing.",
+      "source_ar": "local_approved:002/083:ar",
+      "source_tr": "local_approved:002/083:tr",
+      "source_en": "local_approved:002/083:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:24:49",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:24:49",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/087",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 87,
+      "text_ar": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ",
+      "text_tr": "Andolsun, Biz Musa'ya kitabı verdik ve ardından peş peşe elçiler gönderdik. Meryem oğlu İsa'ya da apaçık belgeler verdik ve onu Ruhu'l-Kudüs'le teyid ettik. Demek, size ne zaman bir elçi nefsinizin hoşlanmayacağı bir şeyle gelse, büyüklük taslayarak bir kısmınız onu yalanlayacak, bir kısmınız da onu öldürecek misiniz?",
+      "text_en": "And We did certainly give Moses the Torah and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.",
+      "source_ar": "local_approved:002/087:ar",
+      "source_tr": "local_approved:002/087:tr",
+      "source_en": "local_approved:002/087:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:26:11",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:26:11",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/088",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 88,
+      "text_ar": "وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
+      "text_tr": "Dediler ki: \"Bizim kalplerimiz örtülüdür.\" Hayır; Allah, inkarlarından dolayı onları lanetlemiştir. Bundan dolayı pek azı iman eder.",
+      "text_en": "And they said, \"Our hearts are wrapped.\" But, [in fact], Allah has cursed them for their disbelief, so little is it that they believe.",
+      "source_ar": "local_approved:002/088:ar",
+      "source_tr": "local_approved:002/088:tr",
+      "source_en": "local_approved:002/088:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T23:26:31",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T23:26:31",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/089",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 89,
+      "text_ar": "وَلَمَّا جَآءَهُمْ كِتَـٰبٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ ۚ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَـٰفِرِينَ",
+      "text_tr": "Allah Katından yanlarında olan (Tevrat)ı doğrulayan bir kitap geldiği zaman, -ki bundan önce inkar edenlere karşı fetih istiyorlardı- işte bilip-tanıdıkları gelince, onu inkar ettiler. Artık Allah'ın laneti kafirlerin üzerinedir.",
+      "text_en": "And when there came to them a Book from Allah confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allah will be upon the disbelievers.",
+      "source_ar": "local_approved:002/089:ar",
+      "source_tr": "local_approved:002/089:tr",
+      "source_en": "local_approved:002/089:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-11T14:15:39",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-11T14:15:39",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/091",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 91,
+      "text_ar": "وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ",
+      "text_tr": "Onlara: \"Allah'ın indirdiklerine iman edin\" denildiğinde: \"Biz, bize indirilene iman ederiz\" derler ve ondan sonra olan (Kur'an)ı inkar ederler. Oysa o (Kur'an), yanlarındakini (kitabı) doğrulayan bir gerçektir. (Onlara) De ki: \"Eğer inanıyor idiyseniz, daha önce ne diye Allah'ın peygamberlerini öldürüyordunuz?\"",
+      "text_en": "And when it is said to them, \"Believe in what Allah has revealed,\" they say, \"We believe [only] in what was revealed to us.\" And they disbelieve in what came after it, while it is the truth confirming that which is with them. Say, \"Then why did you kill the prophets of Allah before, if you are [indeed] believers?\"",
+      "source_ar": "local_approved:002/091:ar",
+      "source_tr": "local_approved:002/091:tr",
+      "source_en": "local_approved:002/091:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-11T14:16:53",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-11T14:16:53",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/093",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 93,
+      "text_ar": "وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱسْمَعُوا۟ ۖ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَـٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "text_tr": "Hani sizden misak almış ve Tur'u üstünüze yükseltmiştik (ve): \"Size verdiğimize (kitaba) sımsıkı sarılın ve dinleyin\" (demiştik). Demişlerdi ki: \"Dinledik ve baş kaldırdık.\" İnkarları yüzünden buzağı (tutkusu) kalplerine sindirilmişti. De ki: \"İnanıyorsanız, inancınız size ne kötü şey emrediyor?\"",
+      "text_en": "And [recall] when We took your covenant and raised over you the mount, [saying], \"Take what We have given you with determination and listen.\" They said [instead], \"We hear and disobey.\" And their hearts absorbed [the worship of] the calf because of their disbelief. Say, \"How wretched is that which your faith enjoins upon you, if you should be believers.\"",
+      "source_ar": "local_approved:002/093:ar",
+      "source_tr": "local_approved:002/093:tr",
+      "source_en": "local_approved:002/093:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-11T14:17:12",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-11T14:17:12",
         "review_note": "Synced from local approved payload."
       }
     }
