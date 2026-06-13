@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "content_version": "local-approved-20260613_195814",
-  "generated_at_utc": "2026-06-13T19:58:14+00:00",
+  "content_version": "local-approved-20260613_200043",
+  "generated_at_utc": "2026-06-13T20:00:43+00:00",
   "publish_files": {
     "ayahs": {
       "path": "publish/ayahs.v1.approved.json",
-      "sha256": "ad718db3633f05467fb1f55b71a9d7af150fa769bf48cef2b82d3235e419d273",
+      "sha256": "b129a440d1f53daf7789b057ba8418878157348f5cd0487cc89718bf377e905d",
       "bytes": 198230,
       "record_count": 121
     },
     "hadiths": {
       "path": "publish/hadiths.v1.approved.json",
-      "sha256": "9a21271b33be4023a5b20c463219eff0b42fbe1af628b36067e4a8acb61ce6a0",
+      "sha256": "dc2841d4c3eeb1989779827b7dfbd34a2e389b03cba51717314ba06ef2603cb6",
       "bytes": 297322,
       "record_count": 150
     },
     "esmas": {
       "path": "publish/esmaul_husna.v1.approved.json",
-      "sha256": "3688275053cfa0bf9a0fb971ec3e8cd726e9f07f16ace09c88566eb34f9cd0ae",
+      "sha256": "0a2bc091b679d0e01a0474c67aca1eb679e351dfc60c9876154b0cf8d68ff67d",
       "bytes": 1064962,
       "record_count": 381
     }
