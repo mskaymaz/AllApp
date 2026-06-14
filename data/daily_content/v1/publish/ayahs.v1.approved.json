@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "content_version": "local-approved-20260613_200043",
+  "content_version": "local-approved-20260614_114723",
   "type": "ayah",
   "records": [
     {
@@ -3025,6 +3025,181 @@
       "approval": {
         "approved_by": "local_review_tool",
         "approved_at": "2026-06-13T22:54:18",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "010/088",
+      "type": "ayah",
+      "surah_name": "Yunus",
+      "surah_number": 10,
+      "ayah_number": 88,
+      "text_ar": "وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "text_tr": "Musa: \"Rabbimiz! Doğrusu sen Firavun'a ve erkanına ziynetler ve dünya hayatında mallar verdin. Rabbimiz! Senin yolundan şaşırtmaları için mi? Rabbimiz! Mallarını yok et, kalblerini sık; çünkü onlar can yakıcı azabı görmedikçe inanmazlar\" dedi.",
+      "text_en": "And Moses said, \"Our Lord, indeed You have given Pharaoh and his establishment splendor and wealth in the worldly life, our Lord, that they may lead [men] astray from Your way. Our Lord, obliterate their wealth and harden their hearts so that they will not believe until they see the painful punishment.\"",
+      "source_ar": "local_approved:010/088:ar",
+      "source_tr": "local_approved:010/088:tr",
+      "source_en": "local_approved:010/088:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T13:51:07+00:00",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T13:51:07+00:00",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "061/010-011",
+      "type": "ayah",
+      "surah_name": "Saff",
+      "surah_number": 61,
+      "ayah_number": 10,
+      "text_ar": "(10) يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَـٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ\n(11) تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "text_tr": "(10) Ey iman edenler, sizi acı bir azaptan kurtaracak bir ticareti haber vereyim mi?\n(11) Allah'a ve O'nun Resulü’ne iman edersiniz, mallarınızla ve canlarınızla Allah yolunda mücadele edersiniz. Bu, sizin için daha hayırlıdır; eğer bilirseniz.",
+      "text_en": "(10) O you who have believed, shall I guide you to a transaction that will save you from a painful punishment?\n(11) [It is that] you believe in Allah and His Messenger and strive in the cause of Allah with your wealth and your lives. That is best for you, if you should know.",
+      "source_ar": "local_approved:061/010-011:ar",
+      "source_tr": "local_approved:061/010-011:tr",
+      "source_en": "local_approved:061/010-011:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T19:26:56+00:00",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 3,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T19:26:56+00:00",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/009-010",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 9,
+      "text_ar": "(9) يُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ\n(10) فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
+      "text_tr": "(9) (Sözde) Allah'ı ve iman edenleri aldatırlar. Oysa onlar, yalnızca kendilerini aldatıyorlar ve şuurunda değiller.\n(10) Kalplerinde hastalık vardır. Allah da hastalıklarını arttırmıştır. Yalan söylemekte olduklarından dolayı, onlar için acı bir azap vardır.",
+      "text_en": "(9) They [think to] deceive Allah and those who believe, but they deceive not except themselves and perceive [it] not.\n(10) In their hearts is disease, so Allah has increased their disease; and for them is a painful punishment because they [habitually] used to lie.",
+      "source_ar": "local_approved:002/009-010:ar",
+      "source_tr": "local_approved:002/009-010:tr",
+      "source_en": "local_approved:002/009-010:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T19:50:43+00:00",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T19:50:43+00:00",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/011-012",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 11,
+      "text_ar": "(11) وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ\n(12) أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
+      "text_tr": "(11) Kendilerine: \"Yeryüzünde fesat çıkarmayın\" denildiğinde: \"Biz sadece ıslah edicileriz\" derler.\n(12) Bilin ki; gerçekten, asıl fesatçılar bunlardır, ama şuurunda değildirler.",
+      "text_en": "(11) And when it is said to them, \"Do not cause corruption on the earth,\" they say, \"We are but reformers.\"\n(12) Unquestionably, it is they who are the corrupters, but they perceive [it] not.",
+      "source_ar": "local_approved:002/011:ar",
+      "source_tr": "local_approved:002/011:tr",
+      "source_en": "local_approved:002/011:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:51:22",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 1,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T19:52:28+00:00",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/013-014",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 13,
+      "text_ar": "(13) وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لَّا يَعْلَمُونَ\n(14) وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَـٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ",
+      "text_tr": "(13) Ve (yine) kendilerine: \"İnsanların iman ettiği gibi siz de iman edin\" denildiğinde: \"Düşük akıllıların iman ettiği gibi mi iman edelim?\" derler. Bilin ki, gerçekten asıl düşük-akıllılar kendileridir; ama bilmezler.\n(14) İman edenlerle karşılaştıkları zaman: \"İman ettik\" derler. Şeytanlarıyla başbaşa kaldıklarında ise, derler ki: “Şüphesiz, sizinle beraberiz. Biz (onlarla) yalnızca alay ediyoruz.\"",
+      "text_en": "(13) And when it is said to them, \"Believe as the people have believed,\" they say, \"Should we believe as the foolish have believed?\" Unquestionably, it is they who are the foolish, but they know [it] not.\n(14) And when they meet those who believe, they say, \"We believe\"; but when they are alone with their evil ones, they say, \"Indeed, we are with you; we were only mockers.\"",
+      "source_ar": "local_approved:002/013:ar",
+      "source_tr": "local_approved:002/013:tr",
+      "source_en": "local_approved:002/013:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:52:51",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T19:53:49+00:00",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/013-015",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 13,
+      "text_ar": "(13) وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لَّا يَعْلَمُونَ\n(14) وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَـٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ\n(15) ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+      "text_tr": "(13) Ve (yine) kendilerine: \"İnsanların iman ettiği gibi siz de iman edin\" denildiğinde: \"Düşük akıllıların iman ettiği gibi mi iman edelim?\" derler. Bilin ki, gerçekten asıl düşük-akıllılar kendileridir; ama bilmezler.\n(14) İman edenlerle karşılaştıkları zaman: \"İman ettik\" derler. Şeytanlarıyla başbaşa kaldıklarında ise, derler ki: “Şüphesiz, sizinle beraberiz. Biz (onlarla) yalnızca alay ediyoruz.\"\n(15) (Asıl) Allah onlarla alay eder ve taşkınlıkları içinde şaşkınca dolaşmalarına (belli bir) süre tanır.",
+      "text_en": "(13) And when it is said to them, \"Believe as the people have believed,\" they say, \"Should we believe as the foolish have believed?\" Unquestionably, it is they who are the foolish, but they know [it] not.\n(14) And when they meet those who believe, they say, \"We believe\"; but when they are alone with their evil ones, they say, \"Indeed, we are with you; we were only mockers.\"\n(15) [But] Allah mocks them and prolongs them in their transgression [while] they wander blindly.",
+      "source_ar": "local_approved:002/013:ar",
+      "source_tr": "local_approved:002/013:tr",
+      "source_en": "local_approved:002/013:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T22:52:51",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T19:54:48+00:00",
+        "review_note": "Synced from local approved payload."
+      }
+    },
+    {
+      "id": "002/026",
+      "type": "ayah",
+      "surah_name": "Bakara",
+      "surah_number": 2,
+      "ayah_number": 26,
+      "text_ar": "إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۘ يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَـٰسِقِينَ",
+      "text_tr": "Şüphesiz Allah, bir sivrisineği de, ondan üstün olanı da, (herhangi bir şeyi) örnek vermekten çekinmez. Böylece iman edenler, kuşkusuz bunun Rablerinden gelen bir gerçek olduğunu bilirler; inkar edenler ise, \"Allah, bu örnekle neyi amaçlamış?\" derler. (Oysa Allah,) bununla birçoğunu saptırır, birçoğunu da hidayete erdirir. Ancak O, fasıklardan başkasını saptırmaz.",
+      "text_en": "Indeed, Allah is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, \"What did Allah intend by this as an example?\" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,",
+      "source_ar": "local_approved:002/026:ar",
+      "source_tr": "local_approved:002/026:tr",
+      "source_en": "local_approved:002/026:en",
+      "meal_source": "local approved payload",
+      "source_note": "local approved payload; approved_at=2026-06-10T19:57:16+00:00",
+      "topics": [
+        "ayah_approved_pool"
+      ],
+      "status": "approved",
+      "priority": 2,
+      "approval": {
+        "approved_by": "local_review_tool",
+        "approved_at": "2026-06-10T19:57:16+00:00",
         "review_note": "Synced from local approved payload."
       }
     }
