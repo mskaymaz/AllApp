@@ -16,12 +16,12 @@
       ]
     },
     {
-      "app_id": "rekat_sayar",
-      "name": "M Rekat Sayar",
+      "app_id": "rekatsay",
+      "name": "RekatSay",
       "description": "Namaz rekatlarını takip etmeye yardımcı sade ve ücretsiz uygulama.",
-      "url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/releases/RekatSayar-v1.0.0.apk",
-      "download_url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/releases/RekatSayar-v1.0.0.apk",
-      "icon_url": "",
+      "url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/releases/RekatSay-v1.0.0.apk",
+      "download_url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/releases/RekatSay-v1.0.0.apk",
+      "icon_url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/app_icons/rekatsay.png",
       "active": true,
       "order": 20,
       "target_apps": [
@@ -30,3 +30,4 @@
     }
   ]
 }
+
