@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "updated_at": "2026-06-18",
+  "apps": [
+    {
+      "app_id": "haydi_namaza",
+      "name": "Haydi Namaza",
+      "description": "Namaz vakitleri, kıble yönü, hatırlatmalar ve günlük dini içerikler.",
+      "url": "https://github.com/mskaymaz/AllApp/releases/download/haydi-namaza-v1.0.0-build1/Haydi.Namaza.apk",
+      "download_url": "https://github.com/mskaymaz/AllApp/releases/download/haydi-namaza-v1.0.0-build1/Haydi.Namaza.apk",
+      "icon_url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/HaydiNamaza/HaydiNamaza_icon.png",
+      "active": true,
+      "order": 10,
+      "target_apps": [
+        "*"
+      ]
+    },
+    {
+      "app_id": "rekat_sayar",
+      "name": "M Rekat Sayar",
+      "description": "Namaz rekatlarını takip etmeye yardımcı sade ve ücretsiz uygulama.",
+      "url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/releases/RekatSayar-v1.0.0.apk",
+      "download_url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/releases/RekatSayar-v1.0.0.apk",
+      "icon_url": "",
+      "active": true,
+      "order": 20,
+      "target_apps": [
+        "*"
+      ]
+    }
+  ]
+}
