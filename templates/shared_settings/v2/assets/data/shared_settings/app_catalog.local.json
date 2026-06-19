@@ -1,0 +1,29 @@
+﻿{
+  "apps": [
+    {
+      "app_id": "haydi_namaza",
+      "name": "Haydi Namaza",
+      "description": "Namaz vakti, kıble ve günlük içerik uygulaması",
+      "category": "mobile",
+      "url": "https://github.com/mskaymaz/AllApp/tree/main/HaydiNamaza",
+      "download_url": "https://github.com/mskaymaz/AllApp/tree/main/HaydiNamaza",
+      "icon_asset": "img/HaydiNamaza_icon.png",
+      "active": true,
+      "order": 10,
+      "target_apps": ["*"]
+    },
+    {
+      "app_id": "rekatsay",
+      "name": "RekatSay",
+      "description": "Namaz sayım ve kalibrasyon uygulaması",
+      "category": "mobile",
+      "url": "https://github.com/mskaymaz/AllApp/tree/main/RekatSay",
+      "download_url": "https://github.com/mskaymaz/AllApp/tree/main/RekatSay",
+      "icon_asset": "img/RekatSay.png",
+      "active": true,
+      "order": 20,
+      "target_apps": ["*"]
+    }
+  ]
+}
+

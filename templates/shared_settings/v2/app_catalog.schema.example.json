@@ -1,0 +1,18 @@
+﻿{
+  "apps": [
+    {
+      "app_id": "rekatsay",
+      "name": "RekatSay",
+      "description": "Namaz sayım ve kalibrasyon uygulaması",
+      "category": "mobile",
+      "url": "https://github.com/mskaymaz/AllApp/tree/main/RekatSay",
+      "download_url": "https://github.com/mskaymaz/AllApp/tree/main/RekatSay",
+      "icon_asset": "img/RekatSay.png",
+      "icon_url": "",
+      "active": true,
+      "order": 20,
+      "target_apps": ["*"]
+    }
+  ]
+}
+
