@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build_number": 2,
-  "url": "https://github.com/mskaymaz/AllApp/releases/download/haydi-namaza-v1.0.1-build2/Haydi.Namaza.apk",
+  "version": "1.0.2",
+  "build_number": 3,
+  "url": "https://raw.githubusercontent.com/mskaymaz/AllApp/main/HaydiNamaza/Haydi%20Namaza.apk",
   "force_update": false,
-  "notes": "1.0.1 g\u00fcncelleme s\u00fcr\u00fcm\u00fc"
+  "notes": "1.0.2 g\u00fcncelleme s\u00fcr\u00fcm\u00fc - Diyanet uzak veri ve k\u0131ble d\u00fczeltmeleri"
 }
