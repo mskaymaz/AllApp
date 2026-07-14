@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updated_at": "2026-01-01",
+  "apps": [
+    {
+      "app_id": "ornek_uygulama",
+      "name": "Örnek Uygulama",
+      "description": "Örnek mobil uygulama.",
+      "url": "https://example.com/ornek-uygulama",
+      "download_url": "https://example.com/ornek-uygulama/download",
+      "icon_asset": "assets/images/ornek_uygulama.png",
+      "icon_url": "https://example.com/ornek-uygulama/icon.png",
+      "active": true,
+      "order": 10,
+      "target_apps": ["*"],
+      "platform": "mobile"
+    }
+  ]
+}

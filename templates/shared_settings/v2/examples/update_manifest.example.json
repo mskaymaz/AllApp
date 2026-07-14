@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "build_number": 1,
+  "url": "https://example.com/releases/ornek-uygulama.apk",
+  "force_update": false,
+  "notes": "İlk sürüm."
+}

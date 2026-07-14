@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AllApp Support Contact",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["email"],
+  "properties": {
+    "email": { "type": "string", "format": "email" },
+    "support_form_url": { "type": "string", "format": "uri" },
+    "support_form_topic": { "type": "string" },
+    "support_form_message": { "type": "string" },
+    "response_policy_text": { "type": "string" }
+  }
+}

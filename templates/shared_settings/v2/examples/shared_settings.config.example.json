@@ -1,0 +1,32 @@
+{
+  "app_name": "Örnek Uygulama",
+  "app_id": "ornek_uygulama",
+  "package_name": "com.example.ornekuygulama",
+  "admin_name": "MSK Labs",
+  "contact": {
+    "email": "iletisim@example.com"
+  },
+  "update": {
+    "remote_manifest_url": "https://raw.githubusercontent.com/example/AllApp/main/update_manifest.json",
+    "fallback_release_url": "https://github.com/example/AllApp/releases",
+    "channel": "public"
+  },
+  "other_apps": {
+    "remote_catalog_url": "https://raw.githubusercontent.com/example/AllApp/main/app_catalog.json"
+  },
+  "support": {
+    "title": "Destek Olabilirsiniz",
+    "body": "Uygulamayı faydalı bulduysanız paylaşarak destek olabilirsiniz.",
+    "action_url": "https://example.com/support",
+    "action_label": "Destek Sayfasını Aç",
+    "action_type": "external_url"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "summary": "Uygulama ekibi hakkında kısa bilgi.",
+    "details": "Uygulamayı kullanıcı geri bildirimleriyle geliştiriyoruz.",
+    "image_asset": "assets/images/about.jpg",
+    "link_url": "https://example.com",
+    "link_label": "Web Sitesini Aç"
+  }
+}

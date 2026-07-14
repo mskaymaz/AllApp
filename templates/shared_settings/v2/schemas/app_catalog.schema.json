@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AllApp App Catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["apps"],
+  "properties": {
+    "version": { "type": ["integer", "string"] },
+    "updated_at": { "type": "string" },
+    "apps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["app_id", "name", "description", "url", "active", "order", "target_apps", "platform"],
+        "properties": {
+          "app_id": { "type": "string", "pattern": "^[a-z0-9_\\-]+$" },
+          "name": { "type": "string", "minLength": 1 },
+          "description": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "download_url": { "type": "string", "format": "uri" },
+          "icon_asset": { "type": "string" },
+          "icon_url": { "type": "string", "format": "uri" },
+          "active": { "type": "boolean" },
+          "order": { "type": "integer" },
+          "target_apps": { "type": "array", "items": { "type": "string" } },
+          "platform": { "enum": ["mobile", "desktop", "web"] }
+        }
+      }
+    }
+  }
+}
