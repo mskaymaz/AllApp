@@ -5,10 +5,13 @@
   "version_code": 110,
   "release_date": "2026-09-30",
   "download_url": "https://github.com/mskaymaz/D_DateCounter/releases/download/v1.1.0/DateCounter.exe",
+  "drive_download_url": "https://drive.google.com/file/d/1cgJpGF6I1u2IuNlMWYaAMH66JO-18EDy/view?usp=drive_link",
+  "drive_direct_url": "https://drive.google.com/uc?export=download&id=1cgJpGF6I1u2IuNlMWYaAMH66JO-18EDy",
+  "rar_password": "571",
   "github_release_url": "https://github.com/mskaymaz/D_DateCounter/releases",
   "notes": {
     "tr": "• PDF kullanım kılavuzu entegrasyonu sağlandı.\n• Güncelleme denetleyici sistemi eklendi.\n• Performans ve arayüz iyileştirmeleri yapıldı.",
     "en": "• Added PDF user manual support.\n• Added update checker system.\n• UI and performance improvements.",
-    "ar": "• تم إضافة دعم دليل المستخدم بصيغة PDF.\n• تم إضافة نظام التحقق من التحديثات.\n• تحسينات في الأداء والواجهة."
+    "ar": "• تم إضافة دليل المستخدم بصيغة PDF.\n• تم إضافة نظام التحقق من التحديثات.\n• تحسينات في الأداء والواجهة."
   }
 }
